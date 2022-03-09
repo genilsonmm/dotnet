@@ -1,0 +1,16 @@
+D:\Programming\Unifacisa\dotnet\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net5.0\PrimeiroProjeto.exe
+D:\Programming\Unifacisa\dotnet\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net5.0\PrimeiroProjeto.deps.json
+D:\Programming\Unifacisa\dotnet\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net5.0\PrimeiroProjeto.runtimeconfig.json
+D:\Programming\Unifacisa\dotnet\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net5.0\PrimeiroProjeto.runtimeconfig.dev.json
+D:\Programming\Unifacisa\dotnet\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net5.0\PrimeiroProjeto.dll
+D:\Programming\Unifacisa\dotnet\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net5.0\ref\PrimeiroProjeto.dll
+D:\Programming\Unifacisa\dotnet\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net5.0\PrimeiroProjeto.pdb
+D:\Programming\Unifacisa\dotnet\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net5.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Unifacisa\dotnet\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net5.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+D:\Programming\Unifacisa\dotnet\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net5.0\PrimeiroProjeto.AssemblyInfo.cs
+D:\Programming\Unifacisa\dotnet\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net5.0\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+D:\Programming\Unifacisa\dotnet\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net5.0\PrimeiroProjeto.dll
+D:\Programming\Unifacisa\dotnet\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net5.0\ref\PrimeiroProjeto.dll
+D:\Programming\Unifacisa\dotnet\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net5.0\PrimeiroProjeto.pdb
+D:\Programming\Unifacisa\dotnet\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net5.0\PrimeiroProjeto.genruntimeconfig.cache
+D:\Programming\Unifacisa\dotnet\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net5.0\PrimeiroProjeto.csprojAssemblyReference.cache
