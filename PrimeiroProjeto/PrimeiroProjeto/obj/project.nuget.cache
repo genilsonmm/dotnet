@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "jtT4bBPenkDnk2pWMV/MeXtg8Oj5GURIkQfTG4wQHhVGCnzytfy0PzdS6UcqwYDENqOLSW3LNenjhC2eudouOA==",
+  "dgSpecHash": "ua3rQVvHYzdknTfh7tGSi5nDai13Q1p+qBEfvU+XFUMZwuh29vKqvXXWG1cIzq+HJBk1g61tSgYT2H+1XuKMcg==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\Unifacisa\\dotnet\\PrimeiroProjeto\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Programming\\Unifacisa\\dotnet\\dotnet\\PrimeiroProjeto\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Genilson\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

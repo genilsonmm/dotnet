@@ -1,0 +1,15 @@
+D:\Programming\Unifacisa\dotnet\dotnet\SupplyControl\SupplyControl\bin\Debug\net6.0\SupplyControl.exe
+D:\Programming\Unifacisa\dotnet\dotnet\SupplyControl\SupplyControl\bin\Debug\net6.0\SupplyControl.deps.json
+D:\Programming\Unifacisa\dotnet\dotnet\SupplyControl\SupplyControl\bin\Debug\net6.0\SupplyControl.runtimeconfig.json
+D:\Programming\Unifacisa\dotnet\dotnet\SupplyControl\SupplyControl\bin\Debug\net6.0\SupplyControl.dll
+D:\Programming\Unifacisa\dotnet\dotnet\SupplyControl\SupplyControl\bin\Debug\net6.0\SupplyControl.pdb
+D:\Programming\Unifacisa\dotnet\dotnet\SupplyControl\SupplyControl\obj\Debug\net6.0\SupplyControl.csproj.AssemblyReference.cache
+D:\Programming\Unifacisa\dotnet\dotnet\SupplyControl\SupplyControl\obj\Debug\net6.0\SupplyControl.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Unifacisa\dotnet\dotnet\SupplyControl\SupplyControl\obj\Debug\net6.0\SupplyControl.AssemblyInfoInputs.cache
+D:\Programming\Unifacisa\dotnet\dotnet\SupplyControl\SupplyControl\obj\Debug\net6.0\SupplyControl.AssemblyInfo.cs
+D:\Programming\Unifacisa\dotnet\dotnet\SupplyControl\SupplyControl\obj\Debug\net6.0\SupplyControl.csproj.CoreCompileInputs.cache
+D:\Programming\Unifacisa\dotnet\dotnet\SupplyControl\SupplyControl\obj\Debug\net6.0\SupplyControl.dll
+D:\Programming\Unifacisa\dotnet\dotnet\SupplyControl\SupplyControl\obj\Debug\net6.0\refint\SupplyControl.dll
+D:\Programming\Unifacisa\dotnet\dotnet\SupplyControl\SupplyControl\obj\Debug\net6.0\SupplyControl.pdb
+D:\Programming\Unifacisa\dotnet\dotnet\SupplyControl\SupplyControl\obj\Debug\net6.0\SupplyControl.genruntimeconfig.cache
+D:\Programming\Unifacisa\dotnet\dotnet\SupplyControl\SupplyControl\obj\Debug\net6.0\ref\SupplyControl.dll

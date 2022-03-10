@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\Unifacisa\\dotnet\\PrimeiroProjeto\\PrimeiroProjeto\\PrimeiroProjeto.csproj": {}
+    "D:\\Programming\\Unifacisa\\dotnet\\dotnet\\PrimeiroProjeto\\PrimeiroProjeto\\PrimeiroProjeto.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\Unifacisa\\dotnet\\PrimeiroProjeto\\PrimeiroProjeto\\PrimeiroProjeto.csproj": {
+    "D:\\Programming\\Unifacisa\\dotnet\\dotnet\\PrimeiroProjeto\\PrimeiroProjeto\\PrimeiroProjeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\Unifacisa\\dotnet\\PrimeiroProjeto\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
+        "projectUniqueName": "D:\\Programming\\Unifacisa\\dotnet\\dotnet\\PrimeiroProjeto\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
         "projectName": "PrimeiroProjeto",
-        "projectPath": "D:\\Programming\\Unifacisa\\dotnet\\PrimeiroProjeto\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
+        "projectPath": "D:\\Programming\\Unifacisa\\dotnet\\dotnet\\PrimeiroProjeto\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
         "packagesPath": "C:\\Users\\Genilson\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\Unifacisa\\dotnet\\PrimeiroProjeto\\PrimeiroProjeto\\obj\\",
+        "outputPath": "D:\\Programming\\Unifacisa\\dotnet\\dotnet\\PrimeiroProjeto\\PrimeiroProjeto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -57,12 +57,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.14, 5.0.14]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
