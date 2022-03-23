@@ -11,16 +11,19 @@ namespace SupplyControl.model
         public Refrigerator(int id)
         {
             this.Id = id;
+            this.supplies = new List<ISupply>();
         }
 
         public void CheckIn(ISupply supply)
         {
-
+            this.supplies.Add(supply);
         }
 
-        public void CheckOut(string code)
+        public ISupply CheckOut(string code)
         {
-
+            ISupply? supply = this.supplies.Find(s => s.GetCode().Equals(code));
+            this.supplies.Remove(supply);
+            return supply;
         }
 
         public List<ISupply> GetAllSupplies()
