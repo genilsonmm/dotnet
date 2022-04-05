@@ -1,4 +1,5 @@
-﻿using SupplyControl.interfaces;
+﻿using SupplyControl.Exceptions;
+using SupplyControl.interfaces;
 using SupplyControl.model;
 
 namespace SupplyControl.infra
@@ -18,16 +19,31 @@ namespace SupplyControl.infra
             int option = 0;
             do
             {
-                ShowMenu();
-                option = int.Parse(Console.ReadLine());
-                if (option == 0) break;
+                try
+                {
+                    ShowMenu();
+                    Console.Write("Digite a opção desejada: ");
+                    option = int.Parse(Console.ReadLine());
+                    if (option == 0) break;
 
+                    DoAction(option);
+                }
+                catch(FormatException error)
+                {
+                    Console.WriteLine("Formato inválido");
+                }
+                catch(InvalidSupplyTypeException error)
+                {
+                    Console.WriteLine(error.Message);
+                }
+                catch
+                {
+                    Console.WriteLine("Ocorreu um erro");
+                }
 
-                DoAction(option);
                 Console.ReadLine();
 
-            } while (true);
-           
+            } while (true);          
         }
 
         private void DoAction(int option)
@@ -97,9 +113,7 @@ namespace SupplyControl.infra
                 supply = new Glue(supplyCode);
             } else
             {
-                Console.WriteLine("Tipo de insumo inválido!");
-                Console.ReadLine();
-                CheckIn();              
+                throw new InvalidSupplyTypeException("Tipo de insumo inválido!");          
             }
 
             refrigerator.CheckIn(supply);
