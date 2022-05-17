@@ -1,0 +1,12 @@
+D:\Programming\Unifacisa\dotnet\dotnet\School\School.Data\bin\Debug\net6.0\School.Data.deps.json
+D:\Programming\Unifacisa\dotnet\dotnet\School\School.Data\bin\Debug\net6.0\School.Data.dll
+D:\Programming\Unifacisa\dotnet\dotnet\School\School.Data\bin\Debug\net6.0\School.Data.pdb
+D:\Programming\Unifacisa\dotnet\dotnet\School\School.Data\obj\Debug\net6.0\School.Data.csproj.AssemblyReference.cache
+D:\Programming\Unifacisa\dotnet\dotnet\School\School.Data\obj\Debug\net6.0\School.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Unifacisa\dotnet\dotnet\School\School.Data\obj\Debug\net6.0\School.Data.AssemblyInfoInputs.cache
+D:\Programming\Unifacisa\dotnet\dotnet\School\School.Data\obj\Debug\net6.0\School.Data.AssemblyInfo.cs
+D:\Programming\Unifacisa\dotnet\dotnet\School\School.Data\obj\Debug\net6.0\School.Data.csproj.CoreCompileInputs.cache
+D:\Programming\Unifacisa\dotnet\dotnet\School\School.Data\obj\Debug\net6.0\School.Data.dll
+D:\Programming\Unifacisa\dotnet\dotnet\School\School.Data\obj\Debug\net6.0\refint\School.Data.dll
+D:\Programming\Unifacisa\dotnet\dotnet\School\School.Data\obj\Debug\net6.0\School.Data.pdb
+D:\Programming\Unifacisa\dotnet\dotnet\School\School.Data\obj\Debug\net6.0\ref\School.Data.dll

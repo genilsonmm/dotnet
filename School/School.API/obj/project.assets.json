@@ -72,6 +72,16 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "School.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/School.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/School.Data.dll": {}
+        }
       }
     }
   },
@@ -200,10 +210,16 @@
         "swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "School.Data/1.0.0": {
+      "type": "project",
+      "path": "../School.Data/School.Data.csproj",
+      "msbuildProject": "../School.Data/School.Data.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "School.Data >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
   },
@@ -216,11 +232,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Genilson\\OneDrive\\Área de Trabalho\\School\\School.API\\School.API.csproj",
+      "projectUniqueName": "D:\\Programming\\Unifacisa\\dotnet\\dotnet\\School\\School.API\\School.API.csproj",
       "projectName": "School.API",
-      "projectPath": "C:\\Users\\Genilson\\OneDrive\\Área de Trabalho\\School\\School.API\\School.API.csproj",
+      "projectPath": "D:\\Programming\\Unifacisa\\dotnet\\dotnet\\School\\School.API\\School.API.csproj",
       "packagesPath": "C:\\Users\\Genilson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Genilson\\OneDrive\\Área de Trabalho\\School\\School.API\\obj\\",
+      "outputPath": "D:\\Programming\\Unifacisa\\dotnet\\dotnet\\School\\School.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -244,7 +260,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Programming\\Unifacisa\\dotnet\\dotnet\\School\\School.Data\\School.Data.csproj": {
+              "projectPath": "D:\\Programming\\Unifacisa\\dotnet\\dotnet\\School\\School.Data\\School.Data.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -280,7 +300,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

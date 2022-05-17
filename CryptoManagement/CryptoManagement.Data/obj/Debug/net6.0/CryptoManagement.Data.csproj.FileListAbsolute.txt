@@ -1,0 +1,14 @@
+D:\Programming\Unifacisa\dotnet\dotnet\CryptoManagement\CryptoManagement.Data\bin\Debug\net6.0\CryptoManagement.Data.deps.json
+D:\Programming\Unifacisa\dotnet\dotnet\CryptoManagement\CryptoManagement.Data\bin\Debug\net6.0\CryptoManagement.Data.runtimeconfig.json
+D:\Programming\Unifacisa\dotnet\dotnet\CryptoManagement\CryptoManagement.Data\bin\Debug\net6.0\CryptoManagement.Data.dll
+D:\Programming\Unifacisa\dotnet\dotnet\CryptoManagement\CryptoManagement.Data\bin\Debug\net6.0\CryptoManagement.Data.pdb
+D:\Programming\Unifacisa\dotnet\dotnet\CryptoManagement\CryptoManagement.Data\obj\Debug\net6.0\CryptoManagement.Data.csproj.AssemblyReference.cache
+D:\Programming\Unifacisa\dotnet\dotnet\CryptoManagement\CryptoManagement.Data\obj\Debug\net6.0\CryptoManagement.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Unifacisa\dotnet\dotnet\CryptoManagement\CryptoManagement.Data\obj\Debug\net6.0\CryptoManagement.Data.AssemblyInfoInputs.cache
+D:\Programming\Unifacisa\dotnet\dotnet\CryptoManagement\CryptoManagement.Data\obj\Debug\net6.0\CryptoManagement.Data.AssemblyInfo.cs
+D:\Programming\Unifacisa\dotnet\dotnet\CryptoManagement\CryptoManagement.Data\obj\Debug\net6.0\CryptoManagement.Data.csproj.CoreCompileInputs.cache
+D:\Programming\Unifacisa\dotnet\dotnet\CryptoManagement\CryptoManagement.Data\obj\Debug\net6.0\CryptoManagement.Data.dll
+D:\Programming\Unifacisa\dotnet\dotnet\CryptoManagement\CryptoManagement.Data\obj\Debug\net6.0\refint\CryptoManagement.Data.dll
+D:\Programming\Unifacisa\dotnet\dotnet\CryptoManagement\CryptoManagement.Data\obj\Debug\net6.0\CryptoManagement.Data.pdb
+D:\Programming\Unifacisa\dotnet\dotnet\CryptoManagement\CryptoManagement.Data\obj\Debug\net6.0\CryptoManagement.Data.genruntimeconfig.cache
+D:\Programming\Unifacisa\dotnet\dotnet\CryptoManagement\CryptoManagement.Data\obj\Debug\net6.0\ref\CryptoManagement.Data.dll

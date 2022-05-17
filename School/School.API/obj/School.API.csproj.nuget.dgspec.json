@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Genilson\\OneDrive\\Área de Trabalho\\School\\School.API\\School.API.csproj": {}
+    "D:\\Programming\\Unifacisa\\dotnet\\dotnet\\School\\School.API\\School.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Genilson\\OneDrive\\Área de Trabalho\\School\\School.API\\School.API.csproj": {
+    "D:\\Programming\\Unifacisa\\dotnet\\dotnet\\School\\School.API\\School.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Genilson\\OneDrive\\Área de Trabalho\\School\\School.API\\School.API.csproj",
+        "projectUniqueName": "D:\\Programming\\Unifacisa\\dotnet\\dotnet\\School\\School.API\\School.API.csproj",
         "projectName": "School.API",
-        "projectPath": "C:\\Users\\Genilson\\OneDrive\\Área de Trabalho\\School\\School.API\\School.API.csproj",
+        "projectPath": "D:\\Programming\\Unifacisa\\dotnet\\dotnet\\School\\School.API\\School.API.csproj",
         "packagesPath": "C:\\Users\\Genilson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Genilson\\OneDrive\\Área de Trabalho\\School\\School.API\\obj\\",
+        "outputPath": "D:\\Programming\\Unifacisa\\dotnet\\dotnet\\School\\School.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -35,7 +35,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\Programming\\Unifacisa\\dotnet\\dotnet\\School\\School.Data\\School.Data.csproj": {
+                "projectPath": "D:\\Programming\\Unifacisa\\dotnet\\dotnet\\School\\School.Data\\School.Data.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -71,7 +75,69 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Programming\\Unifacisa\\dotnet\\dotnet\\School\\School.Data\\School.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programming\\Unifacisa\\dotnet\\dotnet\\School\\School.Data\\School.Data.csproj",
+        "projectName": "School.Data",
+        "projectPath": "D:\\Programming\\Unifacisa\\dotnet\\dotnet\\School\\School.Data\\School.Data.csproj",
+        "packagesPath": "C:\\Users\\Genilson\\.nuget\\packages\\",
+        "outputPath": "D:\\Programming\\Unifacisa\\dotnet\\dotnet\\School\\School.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Genilson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nugetized.blob.core.windows.net/live-reload/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

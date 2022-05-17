@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dmj+M6DyQxHwG9eltoCu1glAiu69QhSqSZa8BWm2Y1fywj5pf8fqFLV9nZ09Msk6cLLOE+QDRUcpxiSPibXnMw==",
+  "dgSpecHash": "NBAwCqbJ7d1rhTlOg2cz4G6xz6hwVNhU81Wj0DCPHC7Q/Toqf3NSRUGu0Bejot/LdY6wDvKHJpKXkPjal2m7iw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Genilson\\OneDrive\\Área de Trabalho\\School\\School.API\\School.API.csproj",
+  "projectFilePath": "D:\\Programming\\Unifacisa\\dotnet\\dotnet\\School\\School.API\\School.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Genilson\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Genilson\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

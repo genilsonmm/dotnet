@@ -1,27 +1,31 @@
-C:\Users\Genilson\OneDrive\Área de Trabalho\School\School.API\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\Genilson\OneDrive\Área de Trabalho\School\School.API\bin\Debug\net6.0\appsettings.json
-C:\Users\Genilson\OneDrive\Área de Trabalho\School\School.API\bin\Debug\net6.0\School.API.exe
-C:\Users\Genilson\OneDrive\Área de Trabalho\School\School.API\bin\Debug\net6.0\School.API.deps.json
-C:\Users\Genilson\OneDrive\Área de Trabalho\School\School.API\bin\Debug\net6.0\School.API.runtimeconfig.json
-C:\Users\Genilson\OneDrive\Área de Trabalho\School\School.API\bin\Debug\net6.0\School.API.dll
-C:\Users\Genilson\OneDrive\Área de Trabalho\School\School.API\bin\Debug\net6.0\School.API.pdb
-C:\Users\Genilson\OneDrive\Área de Trabalho\School\School.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
-C:\Users\Genilson\OneDrive\Área de Trabalho\School\School.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Genilson\OneDrive\Área de Trabalho\School\School.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Genilson\OneDrive\Área de Trabalho\School\School.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Genilson\OneDrive\Área de Trabalho\School\School.API\obj\Debug\net6.0\School.API.csproj.AssemblyReference.cache
-C:\Users\Genilson\OneDrive\Área de Trabalho\School\School.API\obj\Debug\net6.0\School.API.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Genilson\OneDrive\Área de Trabalho\School\School.API\obj\Debug\net6.0\School.API.AssemblyInfoInputs.cache
-C:\Users\Genilson\OneDrive\Área de Trabalho\School\School.API\obj\Debug\net6.0\School.API.AssemblyInfo.cs
-C:\Users\Genilson\OneDrive\Área de Trabalho\School\School.API\obj\Debug\net6.0\School.API.csproj.CoreCompileInputs.cache
-C:\Users\Genilson\OneDrive\Área de Trabalho\School\School.API\obj\Debug\net6.0\School.API.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Genilson\OneDrive\Área de Trabalho\School\School.API\obj\Debug\net6.0\School.API.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Genilson\OneDrive\Área de Trabalho\School\School.API\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\Genilson\OneDrive\Área de Trabalho\School\School.API\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\Genilson\OneDrive\Área de Trabalho\School\School.API\obj\Debug\net6.0\scopedcss\bundle\School.API.styles.css
-C:\Users\Genilson\OneDrive\Área de Trabalho\School\School.API\obj\Debug\net6.0\School.API.csproj.CopyComplete
-C:\Users\Genilson\OneDrive\Área de Trabalho\School\School.API\obj\Debug\net6.0\School.API.dll
-C:\Users\Genilson\OneDrive\Área de Trabalho\School\School.API\obj\Debug\net6.0\refint\School.API.dll
-C:\Users\Genilson\OneDrive\Área de Trabalho\School\School.API\obj\Debug\net6.0\School.API.pdb
-C:\Users\Genilson\OneDrive\Área de Trabalho\School\School.API\obj\Debug\net6.0\School.API.genruntimeconfig.cache
-C:\Users\Genilson\OneDrive\Área de Trabalho\School\School.API\obj\Debug\net6.0\ref\School.API.dll
+D:\Programming\Unifacisa\dotnet\dotnet\School\School.API\bin\Debug\net6.0\appsettings.Development.json
+D:\Programming\Unifacisa\dotnet\dotnet\School\School.API\bin\Debug\net6.0\appsettings.json
+D:\Programming\Unifacisa\dotnet\dotnet\School\School.API\bin\Debug\net6.0\School.API.exe
+D:\Programming\Unifacisa\dotnet\dotnet\School\School.API\bin\Debug\net6.0\School.API.deps.json
+D:\Programming\Unifacisa\dotnet\dotnet\School\School.API\bin\Debug\net6.0\School.API.runtimeconfig.json
+D:\Programming\Unifacisa\dotnet\dotnet\School\School.API\bin\Debug\net6.0\School.API.dll
+D:\Programming\Unifacisa\dotnet\dotnet\School\School.API\bin\Debug\net6.0\School.API.pdb
+D:\Programming\Unifacisa\dotnet\dotnet\School\School.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Programming\Unifacisa\dotnet\dotnet\School\School.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Programming\Unifacisa\dotnet\dotnet\School\School.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Programming\Unifacisa\dotnet\dotnet\School\School.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Programming\Unifacisa\dotnet\dotnet\School\School.API\obj\Debug\net6.0\School.API.csproj.AssemblyReference.cache
+D:\Programming\Unifacisa\dotnet\dotnet\School\School.API\obj\Debug\net6.0\School.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Unifacisa\dotnet\dotnet\School\School.API\obj\Debug\net6.0\School.API.AssemblyInfoInputs.cache
+D:\Programming\Unifacisa\dotnet\dotnet\School\School.API\obj\Debug\net6.0\School.API.AssemblyInfo.cs
+D:\Programming\Unifacisa\dotnet\dotnet\School\School.API\obj\Debug\net6.0\School.API.csproj.CoreCompileInputs.cache
+D:\Programming\Unifacisa\dotnet\dotnet\School\School.API\obj\Debug\net6.0\School.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Programming\Unifacisa\dotnet\dotnet\School\School.API\obj\Debug\net6.0\School.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Programming\Unifacisa\dotnet\dotnet\School\School.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\Programming\Unifacisa\dotnet\dotnet\School\School.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\Programming\Unifacisa\dotnet\dotnet\School\School.API\obj\Debug\net6.0\scopedcss\bundle\School.API.styles.css
+D:\Programming\Unifacisa\dotnet\dotnet\School\School.API\obj\Debug\net6.0\School.API.csproj.CopyComplete
+D:\Programming\Unifacisa\dotnet\dotnet\School\School.API\obj\Debug\net6.0\School.API.dll
+D:\Programming\Unifacisa\dotnet\dotnet\School\School.API\obj\Debug\net6.0\refint\School.API.dll
+D:\Programming\Unifacisa\dotnet\dotnet\School\School.API\obj\Debug\net6.0\School.API.pdb
+D:\Programming\Unifacisa\dotnet\dotnet\School\School.API\obj\Debug\net6.0\School.API.genruntimeconfig.cache
+D:\Programming\Unifacisa\dotnet\dotnet\School\School.API\obj\Debug\net6.0\ref\School.API.dll
+D:\Programming\Unifacisa\dotnet\dotnet\School\School.API\obj\Debug\net6.0\School.API.Properties.Resources.resources
+D:\Programming\Unifacisa\dotnet\dotnet\School\School.API\obj\Debug\net6.0\School.API.csproj.GenerateResource.cache
+D:\Programming\Unifacisa\dotnet\dotnet\School\School.API\bin\Debug\net6.0\School.Data.dll
+D:\Programming\Unifacisa\dotnet\dotnet\School\School.API\bin\Debug\net6.0\School.Data.pdb
