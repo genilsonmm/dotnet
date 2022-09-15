@@ -4,7 +4,7 @@ Repositório contendo todos os projetos implementados durante o curso de dotnet.
 
 ### Semestre
 
-2021.2
+2022.2
 
 ## Feedback
 Email: genisnilson@gmail.com
