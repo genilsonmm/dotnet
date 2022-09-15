@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "nSRNGqK+4eHWUtcOOsZpUO7MvcMGIQ6dSxoYjaiiBZOqTy+unKCuLKICqpW8fR1m/CzuivzTxAB1UUNSK07QJg==",
+  "success": true,
+  "projectFilePath": "D:\\Programming\\Unifacisa\\dotnet\\20222\\LojaVirtualAPI\\LojaVirtualAPI\\LojaVirtualAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Genilson\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Genilson\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Genilson\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Genilson\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Genilson\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Genilson\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

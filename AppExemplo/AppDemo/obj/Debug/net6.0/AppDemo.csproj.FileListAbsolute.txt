@@ -1,0 +1,15 @@
+D:\Programming\Unifacisa\dotnet\20222\AppExemplo\AppDemo\bin\Debug\net6.0\AppDemo.exe
+D:\Programming\Unifacisa\dotnet\20222\AppExemplo\AppDemo\bin\Debug\net6.0\AppDemo.deps.json
+D:\Programming\Unifacisa\dotnet\20222\AppExemplo\AppDemo\bin\Debug\net6.0\AppDemo.runtimeconfig.json
+D:\Programming\Unifacisa\dotnet\20222\AppExemplo\AppDemo\bin\Debug\net6.0\AppDemo.dll
+D:\Programming\Unifacisa\dotnet\20222\AppExemplo\AppDemo\bin\Debug\net6.0\AppDemo.pdb
+D:\Programming\Unifacisa\dotnet\20222\AppExemplo\AppDemo\obj\Debug\net6.0\AppDemo.csproj.AssemblyReference.cache
+D:\Programming\Unifacisa\dotnet\20222\AppExemplo\AppDemo\obj\Debug\net6.0\AppDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Unifacisa\dotnet\20222\AppExemplo\AppDemo\obj\Debug\net6.0\AppDemo.AssemblyInfoInputs.cache
+D:\Programming\Unifacisa\dotnet\20222\AppExemplo\AppDemo\obj\Debug\net6.0\AppDemo.AssemblyInfo.cs
+D:\Programming\Unifacisa\dotnet\20222\AppExemplo\AppDemo\obj\Debug\net6.0\AppDemo.csproj.CoreCompileInputs.cache
+D:\Programming\Unifacisa\dotnet\20222\AppExemplo\AppDemo\obj\Debug\net6.0\AppDemo.dll
+D:\Programming\Unifacisa\dotnet\20222\AppExemplo\AppDemo\obj\Debug\net6.0\refint\AppDemo.dll
+D:\Programming\Unifacisa\dotnet\20222\AppExemplo\AppDemo\obj\Debug\net6.0\AppDemo.pdb
+D:\Programming\Unifacisa\dotnet\20222\AppExemplo\AppDemo\obj\Debug\net6.0\AppDemo.genruntimeconfig.cache
+D:\Programming\Unifacisa\dotnet\20222\AppExemplo\AppDemo\obj\Debug\net6.0\ref\AppDemo.dll
