@@ -232,11 +232,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Unifacisa\\dotnet\\20222\\LojaVirtualAPI\\LojaVirtualAPI\\LojaVirtualAPI.csproj",
+      "projectUniqueName": "D:\\Programming\\Unifacisa\\dotnet\\20222\\dotnet\\LojaVirtualAPI\\LojaVirtualAPI\\LojaVirtualAPI.csproj",
       "projectName": "LojaVirtualAPI",
-      "projectPath": "D:\\Programming\\Unifacisa\\dotnet\\20222\\LojaVirtualAPI\\LojaVirtualAPI\\LojaVirtualAPI.csproj",
+      "projectPath": "D:\\Programming\\Unifacisa\\dotnet\\20222\\dotnet\\LojaVirtualAPI\\LojaVirtualAPI\\LojaVirtualAPI.csproj",
       "packagesPath": "C:\\Users\\Genilson\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Unifacisa\\dotnet\\20222\\LojaVirtualAPI\\LojaVirtualAPI\\obj\\",
+      "outputPath": "D:\\Programming\\Unifacisa\\dotnet\\20222\\dotnet\\LojaVirtualAPI\\LojaVirtualAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

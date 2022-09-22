@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nSRNGqK+4eHWUtcOOsZpUO7MvcMGIQ6dSxoYjaiiBZOqTy+unKCuLKICqpW8fR1m/CzuivzTxAB1UUNSK07QJg==",
+  "dgSpecHash": "/BOTCfskoliPgzlkZh7sh81nifGFUq2b42N8QcQ1Ah2QkVdvLPvA8QPzyIvwm1WSi/sOpjxgxuJSNs06M4zj5A==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\Unifacisa\\dotnet\\20222\\LojaVirtualAPI\\LojaVirtualAPI\\LojaVirtualAPI.csproj",
+  "projectFilePath": "D:\\Programming\\Unifacisa\\dotnet\\20222\\dotnet\\LojaVirtualAPI\\LojaVirtualAPI\\LojaVirtualAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Genilson\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Genilson\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
