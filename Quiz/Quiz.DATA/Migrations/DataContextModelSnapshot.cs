@@ -52,6 +52,43 @@ namespace Quiz.DATA.Migrations
 
                     b.ToTable("Questoes");
                 });
+
+            modelBuilder.Entity("Quiz.DATA.Entity.Resposta", b =>
+                {
+                    b.Property<int>("RespostaId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    b.Property<string>("AlternativaCorreta")
+                        .IsRequired()
+                        .HasColumnType("varchar(1)");
+
+                    b.Property<int>("QuestaoId")
+                        .HasColumnType("int");
+
+                    b.HasKey("RespostaId");
+
+                    b.HasIndex("QuestaoId")
+                        .IsUnique();
+
+                    b.ToTable("Respostas");
+                });
+
+            modelBuilder.Entity("Quiz.DATA.Entity.Resposta", b =>
+                {
+                    b.HasOne("Quiz.DATA.Entity.Questao", "Questao")
+                        .WithOne("Resposta")
+                        .HasForeignKey("Quiz.DATA.Entity.Resposta", "QuestaoId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Questao");
+                });
+
+            modelBuilder.Entity("Quiz.DATA.Entity.Questao", b =>
+                {
+                    b.Navigation("Resposta");
+                });
 #pragma warning restore 612, 618
         }
     }

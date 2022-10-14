@@ -11,5 +11,6 @@ namespace Quiz.DATA.Data
         }
 
         public DbSet<Questao> Questao { get; set; }
+        public DbSet<Resposta> Resposta { get; set; }
     }
 }

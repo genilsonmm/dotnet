@@ -1,7 +1,6 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
-using Quiz.DATA.Data;
-using Quiz.DATA.Entity;
+﻿using Microsoft.AspNetCore.Mvc;
+using Quiz.DATA.DTO;
+using Quiz.DATA.Service;
 
 namespace Quiz.API.Controllers
 {
@@ -9,28 +8,20 @@ namespace Quiz.API.Controllers
     [ApiController]
     public class QuestaoController : ControllerBase
     {
-        private readonly DataContext _dataContext;
+        private readonly QuestaoService _questaoService;
 
-        public QuestaoController(DataContext dataContext)
+        public QuestaoController(QuestaoService questaoService)
         {
-            _dataContext = dataContext;
-
-            Questao questao = new Questao();
-            questao.Titulo = "Questão de teste";
-            questao.AlternativaA = "Questão A";
-            questao.AlternativaB = "Questão B";
-            questao.AlternativaC = "Questão C";
-            questao.AlternativaD = "Questão D";
-            questao.AlternativaE = "Questão E";
-
-            dataContext.Questao.Add(questao);
-            dataContext.SaveChanges();
+            _questaoService = questaoService;
         }
 
         [HttpGet]
-        public ActionResult<List<Questao>> Get()
+        public ActionResult<List<QuestaoDTO>> Get() => _questaoService.GetAll();
+
+        [HttpPost]
+        public ActionResult Post([FromBody] NovaQuestaoDTO novaQuestao)
         {
-            return _dataContext.Questao.ToList();
+            return Created("", _questaoService.Insert(novaQuestao));
         }
     }
 }

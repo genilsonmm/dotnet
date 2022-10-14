@@ -12,3 +12,17 @@ D:\Programming\Unifacisa\dotnet\20222\Quiz\Quiz.DATA\obj\Debug\net6.0\refint\Qui
 D:\Programming\Unifacisa\dotnet\20222\Quiz\Quiz.DATA\obj\Debug\net6.0\Quiz.DATA.pdb
 D:\Programming\Unifacisa\dotnet\20222\Quiz\Quiz.DATA\obj\Debug\net6.0\Quiz.DATA.genruntimeconfig.cache
 D:\Programming\Unifacisa\dotnet\20222\Quiz\Quiz.DATA\obj\Debug\net6.0\ref\Quiz.DATA.dll
+D:\Programming\Unifacisa\dotnet\20222\dotnet\Quiz\Quiz.DATA\bin\Debug\net6.0\Quiz.DATA.deps.json
+D:\Programming\Unifacisa\dotnet\20222\dotnet\Quiz\Quiz.DATA\bin\Debug\net6.0\Quiz.DATA.runtimeconfig.json
+D:\Programming\Unifacisa\dotnet\20222\dotnet\Quiz\Quiz.DATA\bin\Debug\net6.0\Quiz.DATA.dll
+D:\Programming\Unifacisa\dotnet\20222\dotnet\Quiz\Quiz.DATA\bin\Debug\net6.0\Quiz.DATA.pdb
+D:\Programming\Unifacisa\dotnet\20222\dotnet\Quiz\Quiz.DATA\obj\Debug\net6.0\Quiz.DATA.csproj.AssemblyReference.cache
+D:\Programming\Unifacisa\dotnet\20222\dotnet\Quiz\Quiz.DATA\obj\Debug\net6.0\Quiz.DATA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Unifacisa\dotnet\20222\dotnet\Quiz\Quiz.DATA\obj\Debug\net6.0\Quiz.DATA.AssemblyInfoInputs.cache
+D:\Programming\Unifacisa\dotnet\20222\dotnet\Quiz\Quiz.DATA\obj\Debug\net6.0\Quiz.DATA.AssemblyInfo.cs
+D:\Programming\Unifacisa\dotnet\20222\dotnet\Quiz\Quiz.DATA\obj\Debug\net6.0\Quiz.DATA.csproj.CoreCompileInputs.cache
+D:\Programming\Unifacisa\dotnet\20222\dotnet\Quiz\Quiz.DATA\obj\Debug\net6.0\Quiz.DATA.dll
+D:\Programming\Unifacisa\dotnet\20222\dotnet\Quiz\Quiz.DATA\obj\Debug\net6.0\refint\Quiz.DATA.dll
+D:\Programming\Unifacisa\dotnet\20222\dotnet\Quiz\Quiz.DATA\obj\Debug\net6.0\Quiz.DATA.pdb
+D:\Programming\Unifacisa\dotnet\20222\dotnet\Quiz\Quiz.DATA\obj\Debug\net6.0\Quiz.DATA.genruntimeconfig.cache
+D:\Programming\Unifacisa\dotnet\20222\dotnet\Quiz\Quiz.DATA\obj\Debug\net6.0\ref\Quiz.DATA.dll

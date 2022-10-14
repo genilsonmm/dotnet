@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using Quiz.DATA.Data;
+using Quiz.DATA.Service;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -18,7 +19,7 @@ builder.Services.AddDbContextPool<DataContext>(
     .EnableSensitiveDataLogging()
     .EnableDetailedErrors());
 
-builder.Services.AddScoped<DataContext>();
+builder.Services.AddScoped<QuestaoService>();
 
 var app = builder.Build();
 

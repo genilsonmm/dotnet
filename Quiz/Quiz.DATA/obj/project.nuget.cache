@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HhPXzE6NJfUFxGrsgEpnyaFjR7k5QkNlxwesBPts2kRmq/bChBW9URDV/CQB9pruEVIfaSFNBjERwtFzYu6/AQ==",
+  "dgSpecHash": "+Gj5HOXWYujpbLld8Ah3aeIqWQC40r3/w8WNVz9llEDmbUBEWDVEKBwu0JgAtO+MkwnZ8cBlGbJsjDDETelTKQ==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\Unifacisa\\dotnet\\20222\\Quiz\\Quiz.DATA\\Quiz.DATA.csproj",
+  "projectFilePath": "D:\\Programming\\Unifacisa\\dotnet\\20222\\dotnet\\Quiz\\Quiz.DATA\\Quiz.DATA.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Genilson\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Genilson\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.9\\microsoft.entityframeworkcore.6.0.9.nupkg.sha512",

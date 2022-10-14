@@ -27,5 +27,7 @@ namespace Quiz.DATA.Entity
         [Column(TypeName = "varchar(150)")]
         [Required]
         public string AlternativaE { get; set; }
+
+        public Resposta Resposta { get; set; }
     }
 }
