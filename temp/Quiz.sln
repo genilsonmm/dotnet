@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quiz.DATA", "Quiz.DATA\Quiz.DATA.csproj", "{408DA74A-5A6A-4C9D-B4EF-763F90E5DC2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quiz.API", "Quiz.API\Quiz.API.csproj", "{45E410EF-A3BA-4D24-A184-01163AE15172}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{408DA74A-5A6A-4C9D-B4EF-763F90E5DC2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{408DA74A-5A6A-4C9D-B4EF-763F90E5DC2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{408DA74A-5A6A-4C9D-B4EF-763F90E5DC2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{408DA74A-5A6A-4C9D-B4EF-763F90E5DC2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45E410EF-A3BA-4D24-A184-01163AE15172}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45E410EF-A3BA-4D24-A184-01163AE15172}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45E410EF-A3BA-4D24-A184-01163AE15172}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45E410EF-A3BA-4D24-A184-01163AE15172}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9E65692-AAF9-4E56-BE22-70A2D26AA89E}
+	EndGlobalSection
+EndGlobal

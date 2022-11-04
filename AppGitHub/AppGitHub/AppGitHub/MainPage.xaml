@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppGitHub.MainPage">
+
+    
+    
+    <StackLayout Orientation="Vertical" Padding="10">
+
+        <Entry x:Name="entAtividade" Placeholder="Nova atividade"/>
+        <Button Text="Cadastrar" x:Name="btnCadastrar" Clicked="btnCadastrar_Clicked" />
+
+        <Frame>
+            <ListView x:Name="lstAtividede" ItemSelected="lstAtividede_ItemSelected">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ImageCell ImageSource="{ Binding Avatar }" Text="{ Binding Login}"/>
+                        <!--
+                        <ViewCell>
+                            <Label Text="{ Binding Titulo }"/>
+                        </ViewCell>-->
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </Frame>
+    </StackLayout>
+
+</ContentPage>

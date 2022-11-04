@@ -20,6 +20,7 @@ builder.Services.AddDbContextPool<DataContext>(
     .EnableDetailedErrors());
 
 builder.Services.AddScoped<QuestaoService>();
+builder.Services.AddScoped<RespostasService>();
 
 var app = builder.Build();
 

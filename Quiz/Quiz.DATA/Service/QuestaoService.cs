@@ -2,6 +2,7 @@
 using Quiz.DATA.DTO;
 using Quiz.DATA.Entity;
 using Quiz.DATA.Repository;
+using System;
 using System.Collections.Generic;
 
 namespace Quiz.DATA.Service
@@ -9,10 +10,12 @@ namespace Quiz.DATA.Service
     public class QuestaoService
     {
         private readonly QuestaoRepository _repository;
+        private readonly RespostaRepository _respostaRepository;
 
         public QuestaoService(DataContext context)
         {
             _repository = new QuestaoRepository(context);
+            _respostaRepository = new RespostaRepository(context);
         }
 
         public List<QuestaoDTO> GetAll()
@@ -27,9 +30,30 @@ namespace Quiz.DATA.Service
             return ToDTO(questaoCadastrada);
         }
 
+        public void Update(NovaQuestaoDTO novaQuestao)
+        {
+            Questao questao = _repository.GetById(novaQuestao.Id);
+            questao.Titulo = novaQuestao.Titulo; 
+            questao.AlternativaA = novaQuestao.AlternativaA;
+            questao.AlternativaB = novaQuestao.AlternativaA;
+            questao.AlternativaC = novaQuestao.AlternativaA;
+            questao.AlternativaD = novaQuestao.AlternativaA;
+            questao.AlternativaE = novaQuestao.AlternativaA;
+            questao.Resposta.AlternativaCorreta = novaQuestao.AlternativaCorreta;
+
+
+            //Questao questao = ToEntity(novaQuestao);
+            //Resposta resposta = _repository.GetById(questao.QuestaoId).Resposta;
+            //resposta.AlternativaCorreta = novaQuestao.AlternativaCorreta;
+
+            //_respostaRepository.Update(resposta);
+            _repository.Update(questao);
+        }
+
         private Questao ToEntity(NovaQuestaoDTO novaQuestao)
         {
             Questao questao = new Questao();
+            questao.QuestaoId = novaQuestao.Id;
             questao.Titulo = novaQuestao.Titulo;
             questao.AlternativaA = novaQuestao.AlternativaA;
             questao.AlternativaB = novaQuestao.AlternativaB;
@@ -62,5 +86,7 @@ namespace Quiz.DATA.Service
             });
             return list;
         }
+
+
     }
 }
