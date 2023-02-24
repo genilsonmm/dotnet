@@ -1,0 +1,14 @@
+C:\Users\Virtus\OneDrive\Área de Trabalho\app-gerenciamento\AppGerenciamento\AppGerenciamento\bin\Debug\netcoreapp3.1\AppGerenciamento.exe
+C:\Users\Virtus\OneDrive\Área de Trabalho\app-gerenciamento\AppGerenciamento\AppGerenciamento\bin\Debug\netcoreapp3.1\AppGerenciamento.deps.json
+C:\Users\Virtus\OneDrive\Área de Trabalho\app-gerenciamento\AppGerenciamento\AppGerenciamento\bin\Debug\netcoreapp3.1\AppGerenciamento.runtimeconfig.json
+C:\Users\Virtus\OneDrive\Área de Trabalho\app-gerenciamento\AppGerenciamento\AppGerenciamento\bin\Debug\netcoreapp3.1\AppGerenciamento.runtimeconfig.dev.json
+C:\Users\Virtus\OneDrive\Área de Trabalho\app-gerenciamento\AppGerenciamento\AppGerenciamento\bin\Debug\netcoreapp3.1\AppGerenciamento.dll
+C:\Users\Virtus\OneDrive\Área de Trabalho\app-gerenciamento\AppGerenciamento\AppGerenciamento\bin\Debug\netcoreapp3.1\AppGerenciamento.pdb
+C:\Users\Virtus\OneDrive\Área de Trabalho\app-gerenciamento\AppGerenciamento\AppGerenciamento\obj\Debug\netcoreapp3.1\AppGerenciamento.csproj.AssemblyReference.cache
+C:\Users\Virtus\OneDrive\Área de Trabalho\app-gerenciamento\AppGerenciamento\AppGerenciamento\obj\Debug\netcoreapp3.1\AppGerenciamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Virtus\OneDrive\Área de Trabalho\app-gerenciamento\AppGerenciamento\AppGerenciamento\obj\Debug\netcoreapp3.1\AppGerenciamento.AssemblyInfoInputs.cache
+C:\Users\Virtus\OneDrive\Área de Trabalho\app-gerenciamento\AppGerenciamento\AppGerenciamento\obj\Debug\netcoreapp3.1\AppGerenciamento.AssemblyInfo.cs
+C:\Users\Virtus\OneDrive\Área de Trabalho\app-gerenciamento\AppGerenciamento\AppGerenciamento\obj\Debug\netcoreapp3.1\AppGerenciamento.csproj.CoreCompileInputs.cache
+C:\Users\Virtus\OneDrive\Área de Trabalho\app-gerenciamento\AppGerenciamento\AppGerenciamento\obj\Debug\netcoreapp3.1\AppGerenciamento.dll
+C:\Users\Virtus\OneDrive\Área de Trabalho\app-gerenciamento\AppGerenciamento\AppGerenciamento\obj\Debug\netcoreapp3.1\AppGerenciamento.pdb
+C:\Users\Virtus\OneDrive\Área de Trabalho\app-gerenciamento\AppGerenciamento\AppGerenciamento\obj\Debug\netcoreapp3.1\AppGerenciamento.genruntimeconfig.cache
