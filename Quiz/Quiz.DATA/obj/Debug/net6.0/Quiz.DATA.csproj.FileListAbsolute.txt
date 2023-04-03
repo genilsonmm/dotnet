@@ -1,0 +1,14 @@
+D:\unifacisa\dotnet\Quiz\Quiz.DATA\bin\Debug\net6.0\Quiz.DATA.deps.json
+D:\unifacisa\dotnet\Quiz\Quiz.DATA\bin\Debug\net6.0\Quiz.DATA.runtimeconfig.json
+D:\unifacisa\dotnet\Quiz\Quiz.DATA\bin\Debug\net6.0\Quiz.DATA.dll
+D:\unifacisa\dotnet\Quiz\Quiz.DATA\bin\Debug\net6.0\Quiz.DATA.pdb
+D:\unifacisa\dotnet\Quiz\Quiz.DATA\obj\Debug\net6.0\Quiz.DATA.csproj.AssemblyReference.cache
+D:\unifacisa\dotnet\Quiz\Quiz.DATA\obj\Debug\net6.0\Quiz.DATA.GeneratedMSBuildEditorConfig.editorconfig
+D:\unifacisa\dotnet\Quiz\Quiz.DATA\obj\Debug\net6.0\Quiz.DATA.AssemblyInfoInputs.cache
+D:\unifacisa\dotnet\Quiz\Quiz.DATA\obj\Debug\net6.0\Quiz.DATA.AssemblyInfo.cs
+D:\unifacisa\dotnet\Quiz\Quiz.DATA\obj\Debug\net6.0\Quiz.DATA.csproj.CoreCompileInputs.cache
+D:\unifacisa\dotnet\Quiz\Quiz.DATA\obj\Debug\net6.0\Quiz.DATA.dll
+D:\unifacisa\dotnet\Quiz\Quiz.DATA\obj\Debug\net6.0\refint\Quiz.DATA.dll
+D:\unifacisa\dotnet\Quiz\Quiz.DATA\obj\Debug\net6.0\Quiz.DATA.pdb
+D:\unifacisa\dotnet\Quiz\Quiz.DATA\obj\Debug\net6.0\Quiz.DATA.genruntimeconfig.cache
+D:\unifacisa\dotnet\Quiz\Quiz.DATA\obj\Debug\net6.0\ref\Quiz.DATA.dll

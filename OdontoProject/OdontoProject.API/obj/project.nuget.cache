@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "jBXrBI7vfoaN15SYygYwfGpR4z4Rb2D/GNyN6pzul9W1qgy4sw3IVGL08UfsbpRbHU2ppHjkQko3JAq6WYsHzg==",
+  "success": true,
+  "projectFilePath": "D:\\unifacisa\\dotnet\\OdontoProject\\OdontoProject.API\\OdontoProject.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Virtus\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Virtus\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Virtus\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Virtus\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Virtus\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Virtus\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+﻿using Microsoft.EntityFrameworkCore;
+using Quiz.DATA.Entity;
+
+namespace Quiz.DATA.Data
+{
+    public class DataContext : DbContext
+    {
+        public DataContext(DbContextOptions<DataContext> options) : base(options){}
+
+        public DbSet<Questions> Questions { get; set; }
+    }
+}

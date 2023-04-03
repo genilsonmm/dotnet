@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FBidVGhMnoecPj35duR0Nhh4Z2jmhdqgV/ZvPusxsX9lg9yZWmDEN/WGM198Rfqk01jMTpNTF+lsQuioD3T6nQ==",
+  "success": true,
+  "projectFilePath": "D:\\unifacisa\\dotnet\\Quiz\\Quiz.API\\Quiz.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Virtus\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
+  ],
+  "logs": []
+}
