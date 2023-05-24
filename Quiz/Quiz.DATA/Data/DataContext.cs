@@ -7,6 +7,8 @@ namespace Quiz.DATA.Data
     {
         public DataContext(DbContextOptions<DataContext> options) : base(options){}
 
-        public DbSet<Questions> Questions { get; set; }
+        public DbSet<Questao> Questoes { get; set; }
+        public DbSet<Alternativa> Alternativas { get; set; }
+        public DbSet<Resposta> Respostas { get; set; }
     }
 }

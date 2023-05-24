@@ -1,0 +1,1 @@
+D:\unifacisa\dotnet\MeuApp\MeuApp\MeuApp.csproj;x64
