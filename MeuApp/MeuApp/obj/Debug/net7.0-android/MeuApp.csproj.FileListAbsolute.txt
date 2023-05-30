@@ -969,3 +969,4 @@ D:\unifacisa\dotnet\MeuApp\MeuApp\obj\Debug\net7.0-android\android\assets\System
 D:\unifacisa\dotnet\MeuApp\MeuApp\obj\Debug\net7.0-android\android\assets\System.Runtime.Extensions.dll
 D:\unifacisa\dotnet\MeuApp\MeuApp\obj\Debug\net7.0-android\android\assets\System.Runtime.Serialization.Formatters.dll
 D:\unifacisa\dotnet\MeuApp\MeuApp\obj\Debug\net7.0-android\android\assets\System.Xml.dll
+D:\unifacisa\dotnet\MeuApp\MeuApp\obj\Debug\net7.0-android\android\assets\Newtonsoft.Json.dll

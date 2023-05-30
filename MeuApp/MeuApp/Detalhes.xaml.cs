@@ -2,11 +2,11 @@ namespace MeuApp;
 
 public partial class Detalhes : ContentPage
 {
-	public Detalhes()
+	public Detalhes(string texto)
 	{
 		InitializeComponent();
 
-        entNome.Text = "Eu acho que seu nome é Genilson";
+        entNome.Text = texto;
 	}
 
     private async void btnVoltar_Clicked(object sender, EventArgs e)

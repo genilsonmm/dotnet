@@ -39,6 +39,8 @@
 
             <Button Text="Navegar" x:Name="btnNavegar" Clicked="btnNavegar_Clicked" />
 
+            <Button Text="Ir para listagem" x:Name="btnListagem" Clicked="btnListagem_Clicked" />
+
         </VerticalStackLayout>
     </ScrollView>
 

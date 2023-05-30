@@ -14,5 +14,8 @@
     <MauiXaml Update="Detalhes.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
+    <MauiXaml Update="Listagem.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
   </ItemGroup>
 </Project>

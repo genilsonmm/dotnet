@@ -24,7 +24,12 @@ public partial class MainPage : ContentPage
 
     private async void btnNavegar_Clicked(object sender, EventArgs e)
     {
-		await Navigation.PushAsync(new Detalhes());
+		await Navigation.PushAsync(new Detalhes("Olá eu venho de MainPage"));
+    }
+
+    private async void btnListagem_Clicked(object sender, EventArgs e)
+    {
+		await Navigation.PushAsync(new Listagem());
     }
 }
 
