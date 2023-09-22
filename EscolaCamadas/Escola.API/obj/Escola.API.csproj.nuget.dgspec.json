@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\unifacisa\\dotnet_2023_2\\Escola\\Escola.API\\Escola.API.csproj": {}
+    "D:\\unifacisa\\dotnet\\EscolaCamadas\\Escola.API\\Escola.API.csproj": {}
   },
   "projects": {
-    "D:\\unifacisa\\dotnet_2023_2\\Escola\\Escola.API\\Escola.API.csproj": {
+    "D:\\unifacisa\\dotnet\\EscolaCamadas\\Escola.API\\Escola.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\unifacisa\\dotnet_2023_2\\Escola\\Escola.API\\Escola.API.csproj",
+        "projectUniqueName": "D:\\unifacisa\\dotnet\\EscolaCamadas\\Escola.API\\Escola.API.csproj",
         "projectName": "Escola.API",
-        "projectPath": "D:\\unifacisa\\dotnet_2023_2\\Escola\\Escola.API\\Escola.API.csproj",
+        "projectPath": "D:\\unifacisa\\dotnet\\EscolaCamadas\\Escola.API\\Escola.API.csproj",
         "packagesPath": "C:\\Users\\Virtus\\.nuget\\packages\\",
-        "outputPath": "D:\\unifacisa\\dotnet_2023_2\\Escola\\Escola.API\\obj\\",
+        "outputPath": "D:\\unifacisa\\dotnet\\EscolaCamadas\\Escola.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\unifacisa\\dotnet_2023_2\\Escola\\Escola.Dados\\Escola.Dados.csproj": {
-                "projectPath": "D:\\unifacisa\\dotnet_2023_2\\Escola\\Escola.Dados\\Escola.Dados.csproj"
+              "D:\\unifacisa\\dotnet\\EscolaCamadas\\Escola.Dados\\Escola.Dados.csproj": {
+                "projectPath": "D:\\unifacisa\\dotnet\\EscolaCamadas\\Escola.Dados\\Escola.Dados.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "D:\\unifacisa\\dotnet_2023_2\\Escola\\Escola.Dados\\Escola.Dados.csproj": {
+    "D:\\unifacisa\\dotnet\\EscolaCamadas\\Escola.Dados\\Escola.Dados.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\unifacisa\\dotnet_2023_2\\Escola\\Escola.Dados\\Escola.Dados.csproj",
+        "projectUniqueName": "D:\\unifacisa\\dotnet\\EscolaCamadas\\Escola.Dados\\Escola.Dados.csproj",
         "projectName": "Escola.Dados",
-        "projectPath": "D:\\unifacisa\\dotnet_2023_2\\Escola\\Escola.Dados\\Escola.Dados.csproj",
+        "projectPath": "D:\\unifacisa\\dotnet\\EscolaCamadas\\Escola.Dados\\Escola.Dados.csproj",
         "packagesPath": "C:\\Users\\Virtus\\.nuget\\packages\\",
-        "outputPath": "D:\\unifacisa\\dotnet_2023_2\\Escola\\Escola.Dados\\obj\\",
+        "outputPath": "D:\\unifacisa\\dotnet\\EscolaCamadas\\Escola.Dados\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -121,6 +121,21 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
