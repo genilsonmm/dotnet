@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\unifacisa\\dotnet_2023_2\\EscolaAPI\\EscolaAPI\\EscolaAPI.csproj": {}
+    "D:\\unifacisa\\dotnet\\EscolaAPI\\EscolaAPI\\EscolaAPI.csproj": {}
   },
   "projects": {
-    "D:\\unifacisa\\dotnet_2023_2\\EscolaAPI\\EscolaAPI\\EscolaAPI.csproj": {
+    "D:\\unifacisa\\dotnet\\EscolaAPI\\EscolaAPI\\EscolaAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\unifacisa\\dotnet_2023_2\\EscolaAPI\\EscolaAPI\\EscolaAPI.csproj",
+        "projectUniqueName": "D:\\unifacisa\\dotnet\\EscolaAPI\\EscolaAPI\\EscolaAPI.csproj",
         "projectName": "EscolaAPI",
-        "projectPath": "D:\\unifacisa\\dotnet_2023_2\\EscolaAPI\\EscolaAPI\\EscolaAPI.csproj",
+        "projectPath": "D:\\unifacisa\\dotnet\\EscolaAPI\\EscolaAPI\\EscolaAPI.csproj",
         "packagesPath": "C:\\Users\\Virtus\\.nuget\\packages\\",
-        "outputPath": "D:\\unifacisa\\dotnet_2023_2\\EscolaAPI\\EscolaAPI\\obj\\",
+        "outputPath": "D:\\unifacisa\\dotnet\\EscolaAPI\\EscolaAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

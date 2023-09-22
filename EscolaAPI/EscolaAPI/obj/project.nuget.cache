@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Rlu4s8GEzSI1+N2tokjO5kdopVOYSYWySyrA31I4wBHQmK6Jc98THefjz+OqrkwKxtX5qOi8U8SWde91MctqUA==",
+  "dgSpecHash": "gBOENMcHCGFHuI9RU+qi/6awnC3g9H2qvhBvrfrHkiu18tT+NGy+c46CX3AkFR7ObSLsq2xQmXB8KYAYjcY1cA==",
   "success": true,
-  "projectFilePath": "D:\\unifacisa\\dotnet_2023_2\\EscolaAPI\\EscolaAPI\\EscolaAPI.csproj",
+  "projectFilePath": "D:\\unifacisa\\dotnet\\EscolaAPI\\EscolaAPI\\EscolaAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Virtus\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
     "C:\\Users\\Virtus\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

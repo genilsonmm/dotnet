@@ -1,0 +1,11 @@
+D:\unifacisa\dotnet_2023_2\Escola\Escola.Dados\bin\Debug\net7.0\Escola.Dados.deps.json
+D:\unifacisa\dotnet_2023_2\Escola\Escola.Dados\bin\Debug\net7.0\Escola.Dados.dll
+D:\unifacisa\dotnet_2023_2\Escola\Escola.Dados\bin\Debug\net7.0\Escola.Dados.pdb
+D:\unifacisa\dotnet_2023_2\Escola\Escola.Dados\obj\Debug\net7.0\Escola.Dados.GeneratedMSBuildEditorConfig.editorconfig
+D:\unifacisa\dotnet_2023_2\Escola\Escola.Dados\obj\Debug\net7.0\Escola.Dados.AssemblyInfoInputs.cache
+D:\unifacisa\dotnet_2023_2\Escola\Escola.Dados\obj\Debug\net7.0\Escola.Dados.AssemblyInfo.cs
+D:\unifacisa\dotnet_2023_2\Escola\Escola.Dados\obj\Debug\net7.0\Escola.Dados.csproj.CoreCompileInputs.cache
+D:\unifacisa\dotnet_2023_2\Escola\Escola.Dados\obj\Debug\net7.0\Escola.Dados.dll
+D:\unifacisa\dotnet_2023_2\Escola\Escola.Dados\obj\Debug\net7.0\refint\Escola.Dados.dll
+D:\unifacisa\dotnet_2023_2\Escola\Escola.Dados\obj\Debug\net7.0\Escola.Dados.pdb
+D:\unifacisa\dotnet_2023_2\Escola\Escola.Dados\obj\Debug\net7.0\ref\Escola.Dados.dll

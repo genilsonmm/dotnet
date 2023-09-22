@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Escola.Dados/1.0.0": {
+        "runtime": {
+          "Escola.Dados.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Escola.Dados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
