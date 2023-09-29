@@ -1,6 +1,5 @@
-﻿using Escola.API.Dto;
-using Escola.Dados;
-using Escola.Dados.Entidades;
+﻿using Escola.Dados.Entidades;
+using Escola.Dados.Repository;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Escola.API.Controllers
@@ -9,41 +8,35 @@ namespace Escola.API.Controllers
     [ApiController]
     public class AlunoController : ControllerBase
     {
-        private readonly DataContext dataContext;
+        private readonly AlunoRepository alunoRepository;
 
-        public AlunoController(DataContext dataContext)
+        public AlunoController(AlunoRepository alunoRepository)
         {
-            this.dataContext = dataContext;
+            this.alunoRepository = alunoRepository;
         }
 
         [HttpGet]
-        public ActionResult Get() => Ok(this.dataContext.Alunos.ToList());
+        public ActionResult Get() => Ok(alunoRepository.GetAll());
 
         [HttpPost]
         public ActionResult Post([FromBody] Aluno aluno)
         {
-            //Database.Instance().Alunos().Add(aluno);
-            this.dataContext.Alunos.Add(aluno);
-            this.dataContext.SaveChanges();
-
+            alunoRepository.Add(aluno);
             return Created("", aluno);
         }
 
-        [HttpPut("{id}")]
-        public ActionResult Put([FromBody] ProvaDto prova, Guid id)
+        [HttpPut()]
+        public ActionResult Put([FromBody] Aluno aluno)
         {
-            Aluno aluno = Database.Instance().Alunos().Find(aluno => aluno.AlunoId.Equals(id));
-            //aluno.Notas.Add(prova.Nota);
-            return Ok(aluno);
+            alunoRepository.Update(aluno);
+            return Ok();
         }
 
         [HttpDelete("{id}")]
-        public ActionResult Delete(Guid id)
+        public ActionResult Delete(int id)
         {
-            Aluno aluno = Database.Instance().Alunos().Find(aluno => aluno.AlunoId.Equals(id));
-            Database.Instance().Alunos().Remove(aluno);
-
-            return Ok(aluno);
+            alunoRepository.Delete(id);
+            return Ok("Aluno removido");
         }
     }
 }
