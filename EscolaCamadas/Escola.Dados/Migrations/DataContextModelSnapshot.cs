@@ -25,12 +25,46 @@ namespace Escola.Dados.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("Nome")
+                        .IsRequired()
                         .HasColumnType("varchar(100)")
                         .HasColumnName("name");
 
                     b.HasKey("AlunoId");
 
                     b.ToTable("Alunos");
+                });
+
+            modelBuilder.Entity("Escola.Dados.Entidades.Nota", b =>
+                {
+                    b.Property<int>("NotaId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    b.Property<int>("AlunoId")
+                        .HasColumnType("int");
+
+                    b.Property<decimal>("Valor")
+                        .HasColumnType("decimal(65,30)");
+
+                    b.HasKey("NotaId");
+
+                    b.HasIndex("AlunoId");
+
+                    b.ToTable("Nota");
+                });
+
+            modelBuilder.Entity("Escola.Dados.Entidades.Nota", b =>
+                {
+                    b.HasOne("Escola.Dados.Entidades.Aluno", null)
+                        .WithMany("Notas")
+                        .HasForeignKey("AlunoId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+                });
+
+            modelBuilder.Entity("Escola.Dados.Entidades.Aluno", b =>
+                {
+                    b.Navigation("Notas");
                 });
 #pragma warning restore 612, 618
         }

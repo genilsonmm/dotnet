@@ -1,5 +1,4 @@
-﻿
-using Escola.Dados.Entidades;
+﻿using Escola.Dados.Entidades;
 using Microsoft.EntityFrameworkCore;
 
 namespace Escola.Dados
@@ -9,5 +8,6 @@ namespace Escola.Dados
         public DataContext(DbContextOptions<DataContext> options) : base(options) {}
 
         public DbSet<Aluno> Alunos { get; set; }
+        public DbSet<Nota> Nota { get; set; }
     }
 }

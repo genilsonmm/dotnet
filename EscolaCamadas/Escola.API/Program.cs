@@ -1,6 +1,8 @@
 using Escola.Dados;
 using Escola.Dados.Repository;
+using Escola.Dados.Service;
 using Microsoft.EntityFrameworkCore;
+using MySqlConnector;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,6 +14,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddScoped<AlunoRepository>();
+builder.Services.AddScoped<AlunoService>();
 
 var connectionString = "Server=localhost;Database=escola_db;User=root;Password=root";
 var version = new MySqlServerVersion(new Version(8, 0, 21));

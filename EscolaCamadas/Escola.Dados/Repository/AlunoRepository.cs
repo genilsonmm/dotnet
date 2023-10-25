@@ -19,7 +19,8 @@ namespace Escola.Dados.Repository
 
         public List<Aluno> GetAll()
         {
-            return _dataContext.Alunos.ToList();
+            return _dataContext.Alunos
+                .Include(entity=> entity.Nota).ToList();
         }
 
         public void Delete(int id)
