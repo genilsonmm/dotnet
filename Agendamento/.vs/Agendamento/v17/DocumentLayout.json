@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "D:\\unifacisa\\dotnet\\Agendamento\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A9336598-8D06-42FF-9D3D-DECBF934F00A}|Agendamento\\Agendamento.csproj|d:\\unifacisa\\dotnet\\agendamento\\agendamento\\page\\pagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9336598-8D06-42FF-9D3D-DECBF934F00A}|Agendamento\\Agendamento.csproj|solutionrelative:agendamento\\page\\pagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9336598-8D06-42FF-9D3D-DECBF934F00A}|Agendamento\\Agendamento.csproj|d:\\unifacisa\\dotnet\\agendamento\\agendamento\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9336598-8D06-42FF-9D3D-DECBF934F00A}|Agendamento\\Agendamento.csproj|solutionrelative:agendamento\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A9336598-8D06-42FF-9D3D-DECBF934F00A}|Agendamento\\Agendamento.csproj|d:\\unifacisa\\dotnet\\agendamento\\agendamento\\model\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9336598-8D06-42FF-9D3D-DECBF934F00A}|Agendamento\\Agendamento.csproj|solutionrelative:agendamento\\model\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A9336598-8D06-42FF-9D3D-DECBF934F00A}|Agendamento\\Agendamento.csproj|d:\\unifacisa\\dotnet\\agendamento\\agendamento\\interfaces\\ipessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9336598-8D06-42FF-9D3D-DECBF934F00A}|Agendamento\\Agendamento.csproj|solutionrelative:agendamento\\interfaces\\ipessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9336598-8D06-42FF-9D3D-DECBF934F00A}|Agendamento\\Agendamento.csproj|d:\\unifacisa\\dotnet\\agendamento\\agendamento\\model\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9336598-8D06-42FF-9D3D-DECBF934F00A}|Agendamento\\Agendamento.csproj|solutionrelative:agendamento\\model\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9336598-8D06-42FF-9D3D-DECBF934F00A}|Agendamento\\Agendamento.csproj|d:\\unifacisa\\dotnet\\agendamento\\agendamento\\page\\pagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9336598-8D06-42FF-9D3D-DECBF934F00A}|Agendamento\\Agendamento.csproj|solutionrelative:agendamento\\page\\pagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9336598-8D06-42FF-9D3D-DECBF934F00A}|Agendamento\\Agendamento.csproj|d:\\unifacisa\\dotnet\\agendamento\\agendamento\\model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9336598-8D06-42FF-9D3D-DECBF934F00A}|Agendamento\\Agendamento.csproj|solutionrelative:agendamento\\model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A9336598-8D06-42FF-9D3D-DECBF934F00A}|Agendamento\\Agendamento.csproj|d:\\unifacisa\\dotnet\\agendamento\\agendamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9336598-8D06-42FF-9D3D-DECBF934F00A}|Agendamento\\Agendamento.csproj|solutionrelative:agendamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9336598-8D06-42FF-9D3D-DECBF934F00A}|Agendamento\\Agendamento.csproj|d:\\unifacisa\\dotnet\\agendamento\\agendamento\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9336598-8D06-42FF-9D3D-DECBF934F00A}|Agendamento\\Agendamento.csproj|solutionrelative:agendamento\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 121,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,19 +47,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "D:\\unifacisa\\dotnet\\Agendamento\\Agendamento\\Model\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Agendamento\\Model\\Pessoa.cs",
+              "ToolTip": "D:\\unifacisa\\dotnet\\Agendamento\\Agendamento\\Model\\Pessoa.cs",
+              "RelativeToolTip": "Agendamento\\Model\\Pessoa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T22:29:49.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPessoa.cs",
+              "DocumentMoniker": "D:\\unifacisa\\dotnet\\Agendamento\\Agendamento\\Interfaces\\IPessoa.cs",
+              "RelativeDocumentMoniker": "Agendamento\\Interfaces\\IPessoa.cs",
+              "ToolTip": "D:\\unifacisa\\dotnet\\Agendamento\\Agendamento\\Interfaces\\IPessoa.cs",
+              "RelativeToolTip": "Agendamento\\Interfaces\\IPessoa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T22:22:09.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\unifacisa\\dotnet\\Agendamento\\Agendamento\\Model\\Usuario.cs",
+              "RelativeDocumentMoniker": "Agendamento\\Model\\Usuario.cs",
+              "ToolTip": "D:\\unifacisa\\dotnet\\Agendamento\\Agendamento\\Model\\Usuario.cs",
+              "RelativeToolTip": "Agendamento\\Model\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T22:16:35.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Cliente.cs",
               "DocumentMoniker": "D:\\unifacisa\\dotnet\\Agendamento\\Agendamento\\Model\\Cliente.cs",
               "RelativeDocumentMoniker": "Agendamento\\Model\\Cliente.cs",
               "ToolTip": "D:\\unifacisa\\dotnet\\Agendamento\\Agendamento\\Model\\Cliente.cs",
               "RelativeToolTip": "Agendamento\\Model\\Cliente.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-15T21:47:32.374Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Database.cs",
               "DocumentMoniker": "D:\\unifacisa\\dotnet\\Agendamento\\Agendamento\\Data\\Database.cs",
               "RelativeDocumentMoniker": "Agendamento\\Data\\Database.cs",
@@ -55,25 +106,24 @@
               "RelativeToolTip": "Agendamento\\Data\\Database.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T22:50:58.769Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-08T22:50:58.769Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "PageManager.cs",
               "DocumentMoniker": "D:\\unifacisa\\dotnet\\Agendamento\\Agendamento\\Page\\PageManager.cs",
               "RelativeDocumentMoniker": "Agendamento\\Page\\PageManager.cs",
               "ToolTip": "D:\\unifacisa\\dotnet\\Agendamento\\Agendamento\\Page\\PageManager.cs",
               "RelativeToolTip": "Agendamento\\Page\\PageManager.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAYwBwAAAAbAAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAmwBMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-08T22:45:29.042Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\unifacisa\\dotnet\\Agendamento\\Agendamento\\Program.cs",
               "RelativeDocumentMoniker": "Agendamento\\Program.cs",
@@ -81,7 +131,8 @@
               "RelativeToolTip": "Agendamento\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T22:41:36.258Z"
+              "WhenOpened": "2024-03-08T22:41:36.258Z",
+              "EditorCaption": ""
             }
           ]
         }

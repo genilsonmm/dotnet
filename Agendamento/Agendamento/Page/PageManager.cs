@@ -1,5 +1,7 @@
 ﻿
 using Agendamento.Data;
+using Agendamento.Exceptions;
+using Agendamento.Interfaces;
 using Agendamento.Model;
 
 namespace Agendamento.Page
@@ -8,6 +10,12 @@ namespace Agendamento.Page
     {
         public PageManager()
         {
+            IPessoa pessoa1 = new Cliente();
+            IPessoa pessoa2 = new Usuario();
+
+            pessoa1.Exibir();
+            pessoa2.Exibir();
+
             Menu();
         }
 
@@ -24,29 +32,49 @@ namespace Agendamento.Page
                 Console.WriteLine("0. Sair");
 
                 opcao = int.Parse(Console.ReadLine());
-                switch (opcao)
+                try
                 {
-                    case 1:
-                        {
-                            CadastrarCliente();
-                        }
-                        break;
-                    case 2:
-                        {
-                            PesquisarCliente();
-                        }
-                        break;
-                    case 3:
-                        {
-                            Agendar();
-                        }
-                        break;
-                    case 0:
-                        {
-                            //Sair
-                            opcao = -1;
-                        }
-                        break;
+                    switch (opcao)
+                    {
+                        case 1:
+                            {
+                                CadastrarCliente();
+                            }
+                            break;
+                        case 2:
+                            {
+                                PesquisarCliente();
+                            }
+                            break;
+                        case 3:
+                            {
+                                Agendar();
+                            }
+                            break;
+                        case 0:
+                            {
+                                //Sair
+                                opcao = -1;
+                            }
+                            break;
+                    }
+                } 
+                catch(NotImplementedException error)
+                {
+                    Console.WriteLine("Funcionalidade indisponível!");
+                    Console.ReadLine();
+                }
+                catch(DuplicateUserCpfException ex)
+                {
+                    string error = ex.Message;
+                    Console.WriteLine(error);
+                    Console.ReadLine();
+                }
+                catch(Exception ex){
+                    string error = ex.Message;
+                    Console.WriteLine(error);
+                    Console.ReadLine();
+                    //Fazer alguma coisa
                 }
             }while (opcao != -1);
         }
@@ -74,6 +102,11 @@ namespace Agendamento.Page
             cliente.Nome = nome;
             cliente.CPF = cpf;
             cliente.Id = Guid.NewGuid();
+
+            bool cpfDuplicado = Database.clientes.Any(cliente => cliente.CPF.Equals(cpf));
+
+            if (cpfDuplicado)
+                throw new DuplicateUserCpfException($"Já existe um usuário com o CPF: {cpf}");
 
             Database.clientes.Add(cliente);
         }
