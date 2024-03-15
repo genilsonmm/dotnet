@@ -1,0 +1,15 @@
+D:\unifacisa\dotnet\Agendamento\Agendamento\bin\Debug\net8.0\Agendamento.exe
+D:\unifacisa\dotnet\Agendamento\Agendamento\bin\Debug\net8.0\Agendamento.deps.json
+D:\unifacisa\dotnet\Agendamento\Agendamento\bin\Debug\net8.0\Agendamento.runtimeconfig.json
+D:\unifacisa\dotnet\Agendamento\Agendamento\bin\Debug\net8.0\Agendamento.dll
+D:\unifacisa\dotnet\Agendamento\Agendamento\bin\Debug\net8.0\Agendamento.pdb
+D:\unifacisa\dotnet\Agendamento\Agendamento\obj\Debug\net8.0\Agendamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\unifacisa\dotnet\Agendamento\Agendamento\obj\Debug\net8.0\Agendamento.AssemblyInfoInputs.cache
+D:\unifacisa\dotnet\Agendamento\Agendamento\obj\Debug\net8.0\Agendamento.AssemblyInfo.cs
+D:\unifacisa\dotnet\Agendamento\Agendamento\obj\Debug\net8.0\Agendamento.csproj.CoreCompileInputs.cache
+D:\unifacisa\dotnet\Agendamento\Agendamento\obj\Debug\net8.0\Agendamento.sourcelink.json
+D:\unifacisa\dotnet\Agendamento\Agendamento\obj\Debug\net8.0\Agendamento.dll
+D:\unifacisa\dotnet\Agendamento\Agendamento\obj\Debug\net8.0\refint\Agendamento.dll
+D:\unifacisa\dotnet\Agendamento\Agendamento\obj\Debug\net8.0\Agendamento.pdb
+D:\unifacisa\dotnet\Agendamento\Agendamento\obj\Debug\net8.0\Agendamento.genruntimeconfig.cache
+D:\unifacisa\dotnet\Agendamento\Agendamento\obj\Debug\net8.0\ref\Agendamento.dll
