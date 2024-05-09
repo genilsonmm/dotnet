@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7Y5JCNnzkBVEhITB2mmVxGyYgC/Q6DtpR8BnZrL4j7k=",
+  "Source": "App-DemoDB",
+  "BasePath": "_content/App-DemoDB",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\unifacisa\\dotnet\\App-DemoDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B092B68E-DA6B-4CA6-AB01-C39004BB5521}|App-DemoDB\\App-DemoDB.csproj|d:\\unifacisa\\dotnet\\app-demodb\\app-demodb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B092B68E-DA6B-4CA6-AB01-C39004BB5521}|App-DemoDB\\App-DemoDB.csproj|solutionrelative:app-demodb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B092B68E-DA6B-4CA6-AB01-C39004BB5521}|App-DemoDB\\App-DemoDB.csproj|d:\\unifacisa\\dotnet\\app-demodb\\app-demodb\\entity\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B092B68E-DA6B-4CA6-AB01-C39004BB5521}|App-DemoDB\\App-DemoDB.csproj|solutionrelative:app-demodb\\entity\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B092B68E-DA6B-4CA6-AB01-C39004BB5521}|App-DemoDB\\App-DemoDB.csproj|d:\\unifacisa\\dotnet\\app-demodb\\app-demodb\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B092B68E-DA6B-4CA6-AB01-C39004BB5521}|App-DemoDB\\App-DemoDB.csproj|solutionrelative:app-demodb\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B092B68E-DA6B-4CA6-AB01-C39004BB5521}|App-DemoDB\\App-DemoDB.csproj|d:\\unifacisa\\dotnet\\app-demodb\\app-demodb\\entity\\nota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B092B68E-DA6B-4CA6-AB01-C39004BB5521}|App-DemoDB\\App-DemoDB.csproj|solutionrelative:app-demodb\\entity\\nota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B092B68E-DA6B-4CA6-AB01-C39004BB5521}|App-DemoDB\\App-DemoDB.csproj|d:\\unifacisa\\dotnet\\app-demodb\\app-demodb\\model\\alunodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B092B68E-DA6B-4CA6-AB01-C39004BB5521}|App-DemoDB\\App-DemoDB.csproj|solutionrelative:app-demodb\\model\\alunodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B092B68E-DA6B-4CA6-AB01-C39004BB5521}|App-DemoDB\\App-DemoDB.csproj|d:\\unifacisa\\dotnet\\app-demodb\\app-demodb\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B092B68E-DA6B-4CA6-AB01-C39004BB5521}|App-DemoDB\\App-DemoDB.csproj|solutionrelative:app-demodb\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B092B68E-DA6B-4CA6-AB01-C39004BB5521}|App-DemoDB\\App-DemoDB.csproj|d:\\unifacisa\\dotnet\\app-demodb\\app-demodb\\app-demodb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B092B68E-DA6B-4CA6-AB01-C39004BB5521}|App-DemoDB\\App-DemoDB.csproj|solutionrelative:app-demodb\\app-demodb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 226,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AlunoDTO.cs",
+              "DocumentMoniker": "D:\\unifacisa\\dotnet\\App-DemoDB\\App-DemoDB\\Model\\AlunoDTO.cs",
+              "RelativeDocumentMoniker": "App-DemoDB\\Model\\AlunoDTO.cs",
+              "ToolTip": "D:\\unifacisa\\dotnet\\App-DemoDB\\App-DemoDB\\Model\\AlunoDTO.cs",
+              "RelativeToolTip": "App-DemoDB\\Model\\AlunoDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T22:43:27.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\unifacisa\\dotnet\\App-DemoDB\\App-DemoDB\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "App-DemoDB\\Data\\DataContext.cs",
+              "ToolTip": "D:\\unifacisa\\dotnet\\App-DemoDB\\App-DemoDB\\Data\\DataContext.cs",
+              "RelativeToolTip": "App-DemoDB\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T22:29:48.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Nota.cs",
+              "DocumentMoniker": "D:\\unifacisa\\dotnet\\App-DemoDB\\App-DemoDB\\Entity\\Nota.cs",
+              "RelativeDocumentMoniker": "App-DemoDB\\Entity\\Nota.cs",
+              "ToolTip": "D:\\unifacisa\\dotnet\\App-DemoDB\\App-DemoDB\\Entity\\Nota.cs",
+              "RelativeToolTip": "App-DemoDB\\Entity\\Nota.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T22:18:30.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlunoController.cs",
+              "DocumentMoniker": "D:\\unifacisa\\dotnet\\App-DemoDB\\App-DemoDB\\Controllers\\AlunoController.cs",
+              "RelativeDocumentMoniker": "App-DemoDB\\Controllers\\AlunoController.cs",
+              "ToolTip": "D:\\unifacisa\\dotnet\\App-DemoDB\\App-DemoDB\\Controllers\\AlunoController.cs",
+              "RelativeToolTip": "App-DemoDB\\Controllers\\AlunoController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwCAAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T22:43:25.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "D:\\unifacisa\\dotnet\\App-DemoDB\\App-DemoDB\\Entity\\Aluno.cs",
+              "RelativeDocumentMoniker": "App-DemoDB\\Entity\\Aluno.cs",
+              "ToolTip": "D:\\unifacisa\\dotnet\\App-DemoDB\\App-DemoDB\\Entity\\Aluno.cs",
+              "RelativeToolTip": "App-DemoDB\\Entity\\Aluno.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T22:23:08.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App-DemoDB.csproj",
+              "DocumentMoniker": "D:\\unifacisa\\dotnet\\App-DemoDB\\App-DemoDB\\App-DemoDB.csproj",
+              "RelativeDocumentMoniker": "App-DemoDB\\App-DemoDB.csproj",
+              "ToolTip": "D:\\unifacisa\\dotnet\\App-DemoDB\\App-DemoDB\\App-DemoDB.csproj",
+              "RelativeToolTip": "App-DemoDB\\App-DemoDB.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-26T22:17:44.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\unifacisa\\dotnet\\App-DemoDB\\App-DemoDB\\Program.cs",
+              "RelativeDocumentMoniker": "App-DemoDB\\Program.cs",
+              "ToolTip": "D:\\unifacisa\\dotnet\\App-DemoDB\\App-DemoDB\\Program.cs",
+              "RelativeToolTip": "App-DemoDB\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T22:10:00.796Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

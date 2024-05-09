@@ -1,0 +1,13 @@
+@App_DemoDB_HostAddress = http://localhost:5110
+
+GET {{App_DemoDB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+POST {{App_DemoDB_HostAddress}}/aluno
+Accept: application/json
+
+{
+    "name": "Maria",
+    "age": 20
+}
