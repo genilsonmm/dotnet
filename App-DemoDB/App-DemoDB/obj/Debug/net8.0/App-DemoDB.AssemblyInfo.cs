@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("App-DemoDB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f70d779718aded8244dc729edd2130e8645ea2c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e86c6945ab1c4216863331600b634761dac55398")]
 [assembly: System.Reflection.AssemblyProductAttribute("App-DemoDB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("App-DemoDB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
