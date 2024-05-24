@@ -1,4 +1,6 @@
 using App_DemoDB.Data;
+using App_DemoDB.Repository;
+using App_DemoDB.Services;
 using Microsoft.AspNetCore.Http.Json;
 using Microsoft.EntityFrameworkCore;
 using System.Text.Json.Serialization;
@@ -19,6 +21,10 @@ builder.Services.AddDbContextPool<DataContext>(
     .EnableDetailedErrors()
     .EnableSensitiveDataLogging()
 );
+
+builder.Services.AddScoped<AlunoRepository>();
+builder.Services.AddScoped<AlunoService>();
+builder.Services.AddAutoMapper(typeof(Program));
 
 builder.Services.AddControllers()
     .AddJsonOptions(x => x.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles);

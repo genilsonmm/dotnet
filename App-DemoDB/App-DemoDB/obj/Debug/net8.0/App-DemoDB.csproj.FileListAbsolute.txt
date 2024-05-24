@@ -103,3 +103,4 @@ D:\unifacisa\dotnet\App-DemoDB\App-DemoDB\obj\Debug\net8.0\refint\App-DemoDB.dll
 D:\unifacisa\dotnet\App-DemoDB\App-DemoDB\obj\Debug\net8.0\App-DemoDB.pdb
 D:\unifacisa\dotnet\App-DemoDB\App-DemoDB\obj\Debug\net8.0\App-DemoDB.genruntimeconfig.cache
 D:\unifacisa\dotnet\App-DemoDB\App-DemoDB\obj\Debug\net8.0\ref\App-DemoDB.dll
+D:\unifacisa\dotnet\App-DemoDB\App-DemoDB\bin\Debug\net8.0\AutoMapper.dll

@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "X3mcMVUaLzuR4aCvh4MhQzv1opcumBOrF0idNFJieUKZppugaNr8xcIbVvXHgwMAoTb4X9D6bTyhHsm9YYB4pA==",
+  "dgSpecHash": "4TdE31UknCV32EIbbm/wtP/hgwjZ06oKTbgt5OT3zFHvoX5dpI/ea5XG9LJKcJoS39w2X/NlFH/O/HBUNvnc/A==",
   "success": true,
   "projectFilePath": "D:\\unifacisa\\dotnet\\App-DemoDB\\App-DemoDB\\App-DemoDB.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Virtus\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Virtus\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Virtus\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\Virtus\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",
