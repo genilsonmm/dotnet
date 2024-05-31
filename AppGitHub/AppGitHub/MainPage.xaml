@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppGitHub.MainPage">
+
+    <StackLayout Orientation="Vertical" Padding="10">
+        
+        <Entry x:Name="entName"></Entry>
+        <Button Clicked="btnAdd_Clicked" x:Name="btnAdd" Text="Adicionar"></Button>
+        <Button x:Name="btnGoToPage" Margin="10" Clicked="btnGoToPage_Clicked" Text="Ir para GitHubPage"></Button>
+        <ListView x:Name="lstAlunos">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ImageCell Text="{Binding Nome}" />
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        
+    </StackLayout>
+
+</ContentPage>

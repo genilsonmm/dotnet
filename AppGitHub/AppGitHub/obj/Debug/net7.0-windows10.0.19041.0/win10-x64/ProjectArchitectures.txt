@@ -1,0 +1,1 @@
+D:\unifacisa\dotnet\AppGitHub\AppGitHub\AppGitHub.csproj;x64
