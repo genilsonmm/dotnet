@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\unifacisa\\dotnet\\2024.2\\AppPartida\\AppPartida\\AppPartida.csproj": {}
+    "D:\\unifacisa\\dotnet\\AppPartida\\AppPartida\\AppPartida.csproj": {}
   },
   "projects": {
-    "D:\\unifacisa\\dotnet\\2024.2\\AppPartida\\AppPartida\\AppPartida.csproj": {
+    "D:\\unifacisa\\dotnet\\AppPartida\\AppPartida\\AppPartida.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\unifacisa\\dotnet\\2024.2\\AppPartida\\AppPartida\\AppPartida.csproj",
+        "projectUniqueName": "D:\\unifacisa\\dotnet\\AppPartida\\AppPartida\\AppPartida.csproj",
         "projectName": "AppPartida",
-        "projectPath": "D:\\unifacisa\\dotnet\\2024.2\\AppPartida\\AppPartida\\AppPartida.csproj",
+        "projectPath": "D:\\unifacisa\\dotnet\\AppPartida\\AppPartida\\AppPartida.csproj",
         "packagesPath": "C:\\Users\\Virtus\\.nuget\\packages\\",
-        "outputPath": "D:\\unifacisa\\dotnet\\2024.2\\AppPartida\\AppPartida\\obj\\",
+        "outputPath": "D:\\unifacisa\\dotnet\\AppPartida\\AppPartida\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

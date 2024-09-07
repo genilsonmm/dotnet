@@ -18,7 +18,7 @@
 
         public override string ToString()
         {
-            return $"{Id} | {Time1.Nome} x {Time2.Nome}";
+            return $"{Id} | {Time1.Nome} {GolTime1} x {GolTime2} {Time2.Nome}";
         }
     }
 }

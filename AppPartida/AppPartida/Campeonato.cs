@@ -8,7 +8,6 @@
         {
             partidas = new List<Partida>();
             CriarTabela();
-            VerTabela();
         }
 
         
@@ -29,12 +28,50 @@
             partidas.Add(p6);
         }
 
-        private void VerTabela() => partidas.ForEach(partida => Console.WriteLine(partida));
+        public void VerTabela() => partidas.ForEach(partida =>
+        {
+            Console.WriteLine("----------------------------------");
+            Console.WriteLine(partida);
+        });
 
-        public void Placar(int partidaId, int placar1, int placar2)
+        public void Placar(int partidaId, int golTime1, int golTime2)
         {
             Partida partida = partidas.Find(p => p.Id == partidaId);
-            Console.WriteLine(partida);
+            partida.GolTime1 = golTime1;
+            partida.GolTime2 = golTime2;
+        }
+
+        public Finais ObterFinais()
+        {
+            Dictionary<string, int> pontuacao = new Dictionary<string, int>();
+            pontuacao.Add("A", 0);
+            pontuacao.Add("B", 0);
+            pontuacao.Add("C", 0);
+            pontuacao.Add("D", 0);
+
+            partidas.ForEach((p) =>
+            {
+                if(p.GolTime1 > p.GolTime2) 
+                {
+                    pontuacao[p.Time1.Nome]++;
+                } else
+                {
+                    pontuacao[p.Time2.Nome]++;
+                }
+            });
+
+            List<KeyValuePair<string, int>> ordenado = pontuacao.OrderByDescending(t=> t.Value).ToList();
+            Time time1Final = new Time(ordenado[0].Key);
+            Time time2Final = new Time(ordenado[1].Key);
+
+            Time time3Final = new Time(ordenado[2].Key);
+            Time time4Final = new Time(ordenado[3].Key);
+
+            return new Finais()
+            {
+                Final = new Partida(time1Final, time2Final, 8),
+                TerceiroLugar = new Partida(time3Final, time4Final, 7),
+            };
         }
 
         /*
