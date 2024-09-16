@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppPartida")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83b5b7a71d63770c234460b7c662427a0066aa48")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97d036bf40edee53687e28801c34fe76a735a345")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppPartida")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppPartida")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

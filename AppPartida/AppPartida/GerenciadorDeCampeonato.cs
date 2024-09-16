@@ -2,17 +2,27 @@
 {
     public class GerenciadorDeCampeonato
     {
-        private readonly Campeonato campeonato;
+        private ICampeonato campeonato;
 
         public GerenciadorDeCampeonato()
-        {
-            campeonato = new Campeonato();
+        {            
             Menu();
         }
 
         private void Menu()
         {
             int opcao = 0;
+            Console.WriteLine("Qual é o tipo de campeonato (1) Padrão | (2) Triângular");
+            int tipoCampeonato = int.Parse(Console.ReadLine());
+
+            if (tipoCampeonato == 1)
+            {
+                campeonato = new CampeonatoPadrao();
+            }
+            else if(tipoCampeonato == 2)
+            {
+                campeonato = new CampeonatoTriangular();
+            }
 
             while (opcao != 3)
             {

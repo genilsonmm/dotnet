@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "D:\\unifacisa\\dotnet\\AppPartida\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{30AE497F-F89D-4396-B0B5-94D4818DCF48}|AppPartida\\AppPartida.csproj|d:\\unifacisa\\dotnet\\apppartida\\apppartida\\gerenciadordecampeonato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30AE497F-F89D-4396-B0B5-94D4818DCF48}|AppPartida\\AppPartida.csproj|solutionrelative:apppartida\\gerenciadordecampeonato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30AE497F-F89D-4396-B0B5-94D4818DCF48}|AppPartida\\AppPartida.csproj|d:\\unifacisa\\dotnet\\apppartida\\apppartida\\campeonatopadrao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AE497F-F89D-4396-B0B5-94D4818DCF48}|AppPartida\\AppPartida.csproj|solutionrelative:apppartida\\campeonatopadrao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{30AE497F-F89D-4396-B0B5-94D4818DCF48}|AppPartida\\AppPartida.csproj|d:\\unifacisa\\dotnet\\apppartida\\apppartida\\campeonato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30AE497F-F89D-4396-B0B5-94D4818DCF48}|AppPartida\\AppPartida.csproj|solutionrelative:apppartida\\campeonato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{30AE497F-F89D-4396-B0B5-94D4818DCF48}|AppPartida\\AppPartida.csproj|d:\\unifacisa\\dotnet\\apppartida\\apppartida\\campeonatotriangular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AE497F-F89D-4396-B0B5-94D4818DCF48}|AppPartida\\AppPartida.csproj|solutionrelative:apppartida\\campeonatotriangular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AE497F-F89D-4396-B0B5-94D4818DCF48}|AppPartida\\AppPartida.csproj|d:\\unifacisa\\dotnet\\apppartida\\apppartida\\gerenciadordecampeonato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AE497F-F89D-4396-B0B5-94D4818DCF48}|AppPartida\\AppPartida.csproj|solutionrelative:apppartida\\gerenciadordecampeonato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AE497F-F89D-4396-B0B5-94D4818DCF48}|AppPartida\\AppPartida.csproj|d:\\unifacisa\\dotnet\\apppartida\\apppartida\\icampeonato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AE497F-F89D-4396-B0B5-94D4818DCF48}|AppPartida\\AppPartida.csproj|solutionrelative:apppartida\\icampeonato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{30AE497F-F89D-4396-B0B5-94D4818DCF48}|AppPartida\\AppPartida.csproj|d:\\unifacisa\\dotnet\\apppartida\\apppartida\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30AE497F-F89D-4396-B0B5-94D4818DCF48}|AppPartida\\AppPartida.csproj|solutionrelative:apppartida\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AE497F-F89D-4396-B0B5-94D4818DCF48}|AppPartida\\AppPartida.csproj|d:\\unifacisa\\dotnet\\apppartida\\apppartida\\partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AE497F-F89D-4396-B0B5-94D4818DCF48}|AppPartida\\AppPartida.csproj|solutionrelative:apppartida\\partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AE497F-F89D-4396-B0B5-94D4818DCF48}|AppPartida\\AppPartida.csproj|d:\\unifacisa\\dotnet\\apppartida\\apppartida\\finais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AE497F-F89D-4396-B0B5-94D4818DCF48}|AppPartida\\AppPartida.csproj|solutionrelative:apppartida\\finais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{30AE497F-F89D-4396-B0B5-94D4818DCF48}|AppPartida\\AppPartida.csproj|d:\\unifacisa\\dotnet\\apppartida\\apppartida\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,30 +41,13 @@
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "DockedHeight": 133,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GerenciadorDeCampeonato.cs",
-              "DocumentMoniker": "D:\\unifacisa\\dotnet\\AppPartida\\AppPartida\\GerenciadorDeCampeonato.cs",
-              "RelativeDocumentMoniker": "AppPartida\\GerenciadorDeCampeonato.cs",
-              "ToolTip": "D:\\unifacisa\\dotnet\\AppPartida\\AppPartida\\GerenciadorDeCampeonato.cs",
-              "RelativeToolTip": "AppPartida\\GerenciadorDeCampeonato.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T23:37:18.81Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -53,35 +56,117 @@
               "RelativeDocumentMoniker": "AppPartida\\Campeonato.cs",
               "ToolTip": "D:\\unifacisa\\dotnet\\AppPartida\\AppPartida\\Campeonato.cs",
               "RelativeToolTip": "AppPartida\\Campeonato.cs",
-              "ViewState": "AQIAADYAAAAAAAAAAAAiwD8AAAAMAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T00:17:53.059Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Time.cs",
-              "DocumentMoniker": "D:\\unifacisa\\dotnet\\AppPartida\\AppPartida\\Time.cs",
-              "RelativeDocumentMoniker": "AppPartida\\Time.cs",
-              "ToolTip": "D:\\unifacisa\\dotnet\\AppPartida\\AppPartida\\Time.cs",
-              "RelativeToolTip": "AppPartida\\Time.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T23:57:28.183Z",
+              "WhenOpened": "2024-09-14T00:51:04.624Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "CampeonatoTriangular.cs",
+              "DocumentMoniker": "D:\\unifacisa\\dotnet\\AppPartida\\AppPartida\\CampeonatoTriangular.cs",
+              "RelativeDocumentMoniker": "AppPartida\\CampeonatoTriangular.cs",
+              "ToolTip": "D:\\unifacisa\\dotnet\\AppPartida\\AppPartida\\CampeonatoTriangular.cs",
+              "RelativeToolTip": "AppPartida\\CampeonatoTriangular.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T00:45:57.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICampeonato.cs",
+              "DocumentMoniker": "D:\\unifacisa\\dotnet\\AppPartida\\AppPartida\\ICampeonato.cs",
+              "RelativeDocumentMoniker": "AppPartida\\ICampeonato.cs",
+              "ToolTip": "D:\\unifacisa\\dotnet\\AppPartida\\AppPartida\\ICampeonato.cs",
+              "RelativeToolTip": "AppPartida\\ICampeonato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T00:44:51.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\unifacisa\\dotnet\\AppPartida\\AppPartida\\Program.cs",
               "RelativeDocumentMoniker": "AppPartida\\Program.cs",
               "ToolTip": "D:\\unifacisa\\dotnet\\AppPartida\\AppPartida\\Program.cs",
               "RelativeToolTip": "AppPartida\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T23:46:47.694Z",
+              "WhenOpened": "2024-09-14T00:01:36.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GerenciadorDeCampeonato.cs",
+              "DocumentMoniker": "D:\\unifacisa\\dotnet\\AppPartida\\AppPartida\\GerenciadorDeCampeonato.cs",
+              "RelativeDocumentMoniker": "AppPartida\\GerenciadorDeCampeonato.cs",
+              "ToolTip": "D:\\unifacisa\\dotnet\\AppPartida\\AppPartida\\GerenciadorDeCampeonato.cs",
+              "RelativeToolTip": "AppPartida\\GerenciadorDeCampeonato.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T23:47:52.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Finais.cs",
+              "DocumentMoniker": "D:\\unifacisa\\dotnet\\AppPartida\\AppPartida\\Finais.cs",
+              "RelativeDocumentMoniker": "AppPartida\\Finais.cs",
+              "ToolTip": "D:\\unifacisa\\dotnet\\AppPartida\\AppPartida\\Finais.cs",
+              "RelativeToolTip": "AppPartida\\Finais.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T23:46:25.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CampeonatoPadrao.cs",
+              "DocumentMoniker": "D:\\unifacisa\\dotnet\\AppPartida\\AppPartida\\CampeonatoPadrao.cs",
+              "RelativeDocumentMoniker": "AppPartida\\CampeonatoPadrao.cs",
+              "ToolTip": "D:\\unifacisa\\dotnet\\AppPartida\\AppPartida\\CampeonatoPadrao.cs",
+              "RelativeToolTip": "AppPartida\\CampeonatoPadrao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T23:34:22.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Partida.cs",
+              "DocumentMoniker": "D:\\unifacisa\\dotnet\\AppPartida\\AppPartida\\Partida.cs",
+              "RelativeDocumentMoniker": "AppPartida\\Partida.cs",
+              "ToolTip": "D:\\unifacisa\\dotnet\\AppPartida\\AppPartida\\Partida.cs",
+              "RelativeToolTip": "AppPartida\\Partida.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T23:31:05.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Time.cs",
+              "DocumentMoniker": "D:\\unifacisa\\dotnet\\AppPartida\\AppPartida\\Time.cs",
+              "RelativeDocumentMoniker": "AppPartida\\Time.cs",
+              "ToolTip": "D:\\unifacisa\\dotnet\\AppPartida\\AppPartida\\Time.cs",
+              "RelativeToolTip": "AppPartida\\Time.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T23:29:40.112Z",
               "EditorCaption": ""
             }
           ]
