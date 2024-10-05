@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\unifacisa\\dotnet\\Quiz.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8C4D88-F5D3-423B-834D-8DD57D788815}|Quiz.API\\Quiz.API.csproj|d:\\unifacisa\\dotnet\\quiz.api\\quiz.api\\data\\repository\\askrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A8C4D88-F5D3-423B-834D-8DD57D788815}|Quiz.API\\Quiz.API.csproj|solutionrelative:quiz.api\\data\\repository\\askrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8C4D88-F5D3-423B-834D-8DD57D788815}|Quiz.API\\Quiz.API.csproj|d:\\unifacisa\\dotnet\\quiz.api\\quiz.api\\controllers\\askcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A8C4D88-F5D3-423B-834D-8DD57D788815}|Quiz.API\\Quiz.API.csproj|solutionrelative:quiz.api\\controllers\\askcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8C4D88-F5D3-423B-834D-8DD57D788815}|Quiz.API\\Quiz.API.csproj|d:\\unifacisa\\dotnet\\quiz.api\\quiz.api\\data\\entity\\ask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A8C4D88-F5D3-423B-834D-8DD57D788815}|Quiz.API\\Quiz.API.csproj|solutionrelative:quiz.api\\data\\entity\\ask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8C4D88-F5D3-423B-834D-8DD57D788815}|Quiz.API\\Quiz.API.csproj|d:\\unifacisa\\dotnet\\quiz.api\\quiz.api\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A8C4D88-F5D3-423B-834D-8DD57D788815}|Quiz.API\\Quiz.API.csproj|solutionrelative:quiz.api\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8C4D88-F5D3-423B-834D-8DD57D788815}|Quiz.API\\Quiz.API.csproj|d:\\unifacisa\\dotnet\\quiz.api\\quiz.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A8C4D88-F5D3-423B-834D-8DD57D788815}|Quiz.API\\Quiz.API.csproj|solutionrelative:quiz.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8C4D88-F5D3-423B-834D-8DD57D788815}|Quiz.API\\Quiz.API.csproj|d:\\unifacisa\\dotnet\\quiz.api\\quiz.api\\quiz.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2A8C4D88-F5D3-423B-834D-8DD57D788815}|Quiz.API\\Quiz.API.csproj|solutionrelative:quiz.api\\quiz.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8C4D88-F5D3-423B-834D-8DD57D788815}|Quiz.API\\Quiz.API.csproj|d:\\unifacisa\\dotnet\\quiz.api\\quiz.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2A8C4D88-F5D3-423B-834D-8DD57D788815}|Quiz.API\\Quiz.API.csproj|solutionrelative:quiz.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 133,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AskRepository.cs",
+              "DocumentMoniker": "D:\\unifacisa\\dotnet\\Quiz.API\\Quiz.API\\Data\\Repository\\AskRepository.cs",
+              "RelativeDocumentMoniker": "Quiz.API\\Data\\Repository\\AskRepository.cs",
+              "ToolTip": "D:\\unifacisa\\dotnet\\Quiz.API\\Quiz.API\\Data\\Repository\\AskRepository.cs",
+              "RelativeToolTip": "Quiz.API\\Data\\Repository\\AskRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T00:30:00.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Quiz.API",
+              "DocumentMoniker": "D:\\unifacisa\\dotnet\\Quiz.API\\Quiz.API\\Quiz.API.csproj",
+              "RelativeDocumentMoniker": "Quiz.API\\Quiz.API.csproj",
+              "ToolTip": "D:\\unifacisa\\dotnet\\Quiz.API\\Quiz.API\\Quiz.API.csproj",
+              "RelativeToolTip": "Quiz.API\\Quiz.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-05T00:08:30.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AskController.cs",
+              "DocumentMoniker": "D:\\unifacisa\\dotnet\\Quiz.API\\Quiz.API\\Controllers\\AskController.cs",
+              "RelativeDocumentMoniker": "Quiz.API\\Controllers\\AskController.cs",
+              "ToolTip": "D:\\unifacisa\\dotnet\\Quiz.API\\Quiz.API\\Controllers\\AskController.cs",
+              "RelativeToolTip": "Quiz.API\\Controllers\\AskController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T00:17:09.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\unifacisa\\dotnet\\Quiz.API\\Quiz.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Quiz.API\\appsettings.json",
+              "ToolTip": "D:\\unifacisa\\dotnet\\Quiz.API\\Quiz.API\\appsettings.json",
+              "RelativeToolTip": "Quiz.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-05T00:01:42.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\unifacisa\\dotnet\\Quiz.API\\Quiz.API\\Program.cs",
+              "RelativeDocumentMoniker": "Quiz.API\\Program.cs",
+              "ToolTip": "D:\\unifacisa\\dotnet\\Quiz.API\\Quiz.API\\Program.cs",
+              "RelativeToolTip": "Quiz.API\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T23:56:47.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ask.cs",
+              "DocumentMoniker": "D:\\unifacisa\\dotnet\\Quiz.API\\Quiz.API\\Data\\Entity\\Ask.cs",
+              "RelativeDocumentMoniker": "Quiz.API\\Data\\Entity\\Ask.cs",
+              "ToolTip": "D:\\unifacisa\\dotnet\\Quiz.API\\Quiz.API\\Data\\Entity\\Ask.cs",
+              "RelativeToolTip": "Quiz.API\\Data\\Entity\\Ask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T23:51:15.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\unifacisa\\dotnet\\Quiz.API\\Quiz.API\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Quiz.API\\Data\\DataContext.cs",
+              "ToolTip": "D:\\unifacisa\\dotnet\\Quiz.API\\Quiz.API\\Data\\DataContext.cs",
+              "RelativeToolTip": "Quiz.API\\Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T23:49:11.348Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

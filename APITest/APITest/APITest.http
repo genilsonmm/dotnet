@@ -1,0 +1,6 @@
+@APITest_HostAddress = http://localhost:5233
+
+GET {{APITest_HostAddress}}/api/user
+Accept: application/json
+
+###

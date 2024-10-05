@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\unifacisa\\dotnet\\APITest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC624DA1-6D09-4A3C-B919-7D060B6A955D}|APITest\\APITest.csproj|d:\\unifacisa\\dotnet\\apitest\\apitest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC624DA1-6D09-4A3C-B919-7D060B6A955D}|APITest\\APITest.csproj|solutionrelative:apitest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 133,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\unifacisa\\dotnet\\APITest\\APITest\\Program.cs",
+              "RelativeDocumentMoniker": "APITest\\Program.cs",
+              "ToolTip": "D:\\unifacisa\\dotnet\\APITest\\APITest\\Program.cs",
+              "RelativeToolTip": "APITest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T00:35:07.522Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
