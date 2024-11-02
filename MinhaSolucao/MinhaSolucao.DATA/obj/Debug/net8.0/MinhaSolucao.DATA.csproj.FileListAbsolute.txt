@@ -1,0 +1,12 @@
+D:\unifacisa\dotnet\MinhaSolucao\MinhaSolucao.DATA\bin\Debug\net8.0\MinhaSolucao.DATA.deps.json
+D:\unifacisa\dotnet\MinhaSolucao\MinhaSolucao.DATA\bin\Debug\net8.0\MinhaSolucao.DATA.dll
+D:\unifacisa\dotnet\MinhaSolucao\MinhaSolucao.DATA\bin\Debug\net8.0\MinhaSolucao.DATA.pdb
+D:\unifacisa\dotnet\MinhaSolucao\MinhaSolucao.DATA\obj\Debug\net8.0\MinhaSolucao.DATA.GeneratedMSBuildEditorConfig.editorconfig
+D:\unifacisa\dotnet\MinhaSolucao\MinhaSolucao.DATA\obj\Debug\net8.0\MinhaSolucao.DATA.AssemblyInfoInputs.cache
+D:\unifacisa\dotnet\MinhaSolucao\MinhaSolucao.DATA\obj\Debug\net8.0\MinhaSolucao.DATA.AssemblyInfo.cs
+D:\unifacisa\dotnet\MinhaSolucao\MinhaSolucao.DATA\obj\Debug\net8.0\MinhaSolucao.DATA.csproj.CoreCompileInputs.cache
+D:\unifacisa\dotnet\MinhaSolucao\MinhaSolucao.DATA\obj\Debug\net8.0\MinhaSolucao.DATA.sourcelink.json
+D:\unifacisa\dotnet\MinhaSolucao\MinhaSolucao.DATA\obj\Debug\net8.0\MinhaSolucao.DATA.dll
+D:\unifacisa\dotnet\MinhaSolucao\MinhaSolucao.DATA\obj\Debug\net8.0\refint\MinhaSolucao.DATA.dll
+D:\unifacisa\dotnet\MinhaSolucao\MinhaSolucao.DATA\obj\Debug\net8.0\MinhaSolucao.DATA.pdb
+D:\unifacisa\dotnet\MinhaSolucao\MinhaSolucao.DATA\obj\Debug\net8.0\ref\MinhaSolucao.DATA.dll

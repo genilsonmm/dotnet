@@ -103,3 +103,4 @@ D:\unifacisa\dotnet\Quiz.API\Quiz.API\obj\Debug\net8.0\refint\Quiz.API.dll
 D:\unifacisa\dotnet\Quiz.API\Quiz.API\obj\Debug\net8.0\Quiz.API.pdb
 D:\unifacisa\dotnet\Quiz.API\Quiz.API\obj\Debug\net8.0\Quiz.API.genruntimeconfig.cache
 D:\unifacisa\dotnet\Quiz.API\Quiz.API\obj\Debug\net8.0\ref\Quiz.API.dll
+D:\unifacisa\dotnet\Quiz.API\Quiz.API\bin\Debug\net8.0\AutoMapper.dll

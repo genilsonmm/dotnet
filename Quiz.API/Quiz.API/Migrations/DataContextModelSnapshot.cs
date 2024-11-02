@@ -16,10 +16,46 @@ namespace Quiz.API.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "8.0.8")
+                .HasAnnotation("ProductVersion", "8.0.4")
                 .HasAnnotation("Relational:MaxIdentifierLength", 64);
 
             MySqlModelBuilderExtensions.AutoIncrementColumns(modelBuilder);
+
+            modelBuilder.Entity("Quiz.API.Data.Entity.Answer", b =>
+                {
+                    b.Property<int>("AnswerId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    MySqlPropertyBuilderExtensions.UseMySqlIdentityColumn(b.Property<int>("AnswerId"));
+
+                    b.Property<string>("AnswerValue")
+                        .HasColumnType("varchar(2)");
+
+                    b.Property<int>("AskId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("ValueA")
+                        .HasColumnType("varchar(300)");
+
+                    b.Property<string>("ValueB")
+                        .HasColumnType("varchar(300)");
+
+                    b.Property<string>("ValueC")
+                        .HasColumnType("varchar(300)");
+
+                    b.Property<string>("ValueD")
+                        .HasColumnType("varchar(300)");
+
+                    b.Property<string>("ValueE")
+                        .HasColumnType("varchar(300)");
+
+                    b.HasKey("AnswerId");
+
+                    b.HasIndex("AskId");
+
+                    b.ToTable("Answers");
+                });
 
             modelBuilder.Entity("Quiz.API.Data.Entity.Ask", b =>
                 {
@@ -30,11 +66,27 @@ namespace Quiz.API.Migrations
                     MySqlPropertyBuilderExtensions.UseMySqlIdentityColumn(b.Property<int>("AskId"));
 
                     b.Property<string>("Title")
-                        .HasColumnType("longtext");
+                        .HasColumnType("varchar(100)");
 
                     b.HasKey("AskId");
 
                     b.ToTable("Asks");
+                });
+
+            modelBuilder.Entity("Quiz.API.Data.Entity.Answer", b =>
+                {
+                    b.HasOne("Quiz.API.Data.Entity.Ask", "Ask")
+                        .WithMany("Answers")
+                        .HasForeignKey("AskId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Ask");
+                });
+
+            modelBuilder.Entity("Quiz.API.Data.Entity.Ask", b =>
+                {
+                    b.Navigation("Answers");
                 });
 #pragma warning restore 612, 618
         }

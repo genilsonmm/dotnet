@@ -10,5 +10,6 @@ namespace Quiz.API.Data
         
 
         public DbSet<Ask> Asks { get; set; }
+        public DbSet<Answer> Answers { get; set; }
     }
 }

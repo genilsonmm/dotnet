@@ -8,8 +8,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "ask",
-        "Type": "Quiz.API.Data.Entity.Ask",
+        "Name": "askDto",
+        "Type": "Quiz.API.Dto.AskDTO",
         "IsRequired": true
       }
     ],

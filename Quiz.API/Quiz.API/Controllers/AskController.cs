@@ -1,8 +1,11 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using AutoMapper;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Quiz.API.Data;
 using Quiz.API.Data.Entity;
 using Quiz.API.Data.Repository;
+using Quiz.API.Data.Services;
+using Quiz.API.Dto;
 
 namespace Quiz.API.Controllers
 {
@@ -10,25 +13,26 @@ namespace Quiz.API.Controllers
     [ApiController]
     public class AskController : ControllerBase
     {
-        private readonly AskRepository _skRepository;
+        private readonly AskService _skService;
 
-        public AskController(AskRepository skRepository) 
+        public AskController(AskService askService) 
         {
-            _skRepository = skRepository;
+            _skService = askService;
         }
 
         [HttpPost]
-        public ActionResult Post([FromBody] Ask ask)
-            => Ok(_skRepository.Insert(ask));
-        
+        public ActionResult Post([FromBody] AskDTO askDto) 
+        {
+            return Ok(_skService.Insert(askDto));
+        }      
 
         [HttpGet]
-        public ActionResult Get() => Ok(_skRepository.GetAll());
+        public ActionResult Get() => Ok(_skService.GetAll());
 
         [HttpDelete("{id}")]
         public ActionResult Delete(int id)
         {
-            _skRepository.Delete(id);
+            _skService.Delete(id);
             return Ok();
         }
     }

@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using Quiz.API.Data;
 using Quiz.API.Data.Repository;
+using Quiz.API.Data.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,12 +13,15 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var connection = builder.Configuration.GetValue<string>("MySqlConnection:MySqlConnectionString");
+
 builder.Services.AddDbContextPool<DataContext>(
     options => options.UseMySql(connection, new MySqlServerVersion(new Version(8,0,21)))
     .EnableSensitiveDataLogging()
     .EnableDetailedErrors());
 
 builder.Services.AddScoped<AskRepository>();
+builder.Services.AddScoped<AskService>();
+builder.Services.AddAutoMapper(typeof(Program));
 
 var app = builder.Build();
 

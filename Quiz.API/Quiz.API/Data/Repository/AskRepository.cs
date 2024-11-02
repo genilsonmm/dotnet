@@ -1,6 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore.Migrations.Operations;
+﻿using Microsoft.EntityFrameworkCore;
 using Quiz.API.Data.Entity;
-using System.Diagnostics.CodeAnalysis;
 
 namespace Quiz.API.Data.Repository
 {
@@ -19,7 +18,7 @@ namespace Quiz.API.Data.Repository
             return ask;
         }
 
-        public List<Ask> GetAll() => _context.Asks.ToList();
+        public List<Ask> GetAll() => _context.Asks.Include(a=>a.Answers).ToList();
 
         public void Delete(int id)
         {
