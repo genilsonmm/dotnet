@@ -11,8 +11,16 @@
       "RelativeMoniker": "D:0:0:{DC9DF4FC-1516-4EF6-9F71-3DBB0751B25E}|MinhasAtividades\\MinhasAtividades.csproj|solutionrelative:minhasatividades\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC9DF4FC-1516-4EF6-9F71-3DBB0751B25E}|MinhasAtividades\\MinhasAtividades.csproj|d:\\unifacisa\\dotnet\\minhasatividades\\minhasatividades\\model\\atividade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC9DF4FC-1516-4EF6-9F71-3DBB0751B25E}|MinhasAtividades\\MinhasAtividades.csproj|solutionrelative:minhasatividades\\model\\atividade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC9DF4FC-1516-4EF6-9F71-3DBB0751B25E}|MinhasAtividades\\MinhasAtividades.csproj|d:\\unifacisa\\dotnet\\minhasatividades\\minhasatividades\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC9DF4FC-1516-4EF6-9F71-3DBB0751B25E}|MinhasAtividades\\MinhasAtividades.csproj|solutionrelative:minhasatividades\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC9DF4FC-1516-4EF6-9F71-3DBB0751B25E}|MinhasAtividades\\MinhasAtividades.csproj|d:\\unifacisa\\dotnet\\minhasatividades\\minhasatividades\\detalhes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DC9DF4FC-1516-4EF6-9F71-3DBB0751B25E}|MinhasAtividades\\MinhasAtividades.csproj|solutionrelative:minhasatividades\\detalhes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC9DF4FC-1516-4EF6-9F71-3DBB0751B25E}|MinhasAtividades\\MinhasAtividades.csproj|d:\\unifacisa\\dotnet\\minhasatividades\\minhasatividades\\detalhes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC9DF4FC-1516-4EF6-9F71-3DBB0751B25E}|MinhasAtividades\\MinhasAtividades.csproj|solutionrelative:minhasatividades\\detalhes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 266,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,26 +39,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Atividade.cs",
-              "DocumentMoniker": "D:\\unifacisa\\dotnet\\MinhasAtividades\\MinhasAtividades\\Model\\Atividade.cs",
-              "RelativeDocumentMoniker": "MinhasAtividades\\Model\\Atividade.cs",
-              "ToolTip": "D:\\unifacisa\\dotnet\\MinhasAtividades\\MinhasAtividades\\Model\\Atividade.cs",
-              "RelativeToolTip": "MinhasAtividades\\Model\\Atividade.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\unifacisa\\dotnet\\MinhasAtividades\\MinhasAtividades\\Model\\User.cs",
+              "RelativeDocumentMoniker": "MinhasAtividades\\Model\\User.cs",
+              "ToolTip": "D:\\unifacisa\\dotnet\\MinhasAtividades\\MinhasAtividades\\Model\\User.cs",
+              "RelativeToolTip": "MinhasAtividades\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T23:56:13.193Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "D:\\unifacisa\\dotnet\\MinhasAtividades\\MinhasAtividades\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "MinhasAtividades\\MainPage.xaml.cs",
-              "ToolTip": "D:\\unifacisa\\dotnet\\MinhasAtividades\\MinhasAtividades\\MainPage.xaml.cs",
-              "RelativeToolTip": "MinhasAtividades\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T23:40:40.843Z",
+              "WhenOpened": "2024-11-09T00:14:35.791Z",
               "EditorCaption": ""
             },
             {
@@ -61,9 +57,48 @@
               "RelativeDocumentMoniker": "MinhasAtividades\\MainPage.xaml",
               "ToolTip": "D:\\unifacisa\\dotnet\\MinhasAtividades\\MinhasAtividades\\MainPage.xaml",
               "RelativeToolTip": "MinhasAtividades\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-01T23:40:13.909Z",
+              "WhenOpened": "2024-11-08T23:45:11.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Detalhes.xaml.cs",
+              "DocumentMoniker": "D:\\unifacisa\\dotnet\\MinhasAtividades\\MinhasAtividades\\Detalhes.xaml.cs",
+              "RelativeDocumentMoniker": "MinhasAtividades\\Detalhes.xaml.cs",
+              "ToolTip": "D:\\unifacisa\\dotnet\\MinhasAtividades\\MinhasAtividades\\Detalhes.xaml.cs",
+              "RelativeToolTip": "MinhasAtividades\\Detalhes.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T23:37:04.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Detalhes.xaml",
+              "DocumentMoniker": "D:\\unifacisa\\dotnet\\MinhasAtividades\\MinhasAtividades\\Detalhes.xaml",
+              "RelativeDocumentMoniker": "MinhasAtividades\\Detalhes.xaml",
+              "ToolTip": "D:\\unifacisa\\dotnet\\MinhasAtividades\\MinhasAtividades\\Detalhes.xaml",
+              "RelativeToolTip": "MinhasAtividades\\Detalhes.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-08T23:36:49.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\unifacisa\\dotnet\\MinhasAtividades\\MinhasAtividades\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MinhasAtividades\\MainPage.xaml.cs",
+              "ToolTip": "D:\\unifacisa\\dotnet\\MinhasAtividades\\MinhasAtividades\\MainPage.xaml.cs",
+              "RelativeToolTip": "MinhasAtividades\\MainPage.xaml.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAIAwwDMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T23:40:40.843Z",
               "EditorCaption": ""
             }
           ]

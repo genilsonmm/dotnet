@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "D:\\unifacisa\\dotnet\\Quiz.API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2A8C4D88-F5D3-423B-834D-8DD57D788815}|Quiz.API\\Quiz.API.csproj|d:\\unifacisa\\dotnet\\quiz.api\\quiz.api\\controllers\\askcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A8C4D88-F5D3-423B-834D-8DD57D788815}|Quiz.API\\Quiz.API.csproj|solutionrelative:quiz.api\\controllers\\askcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2A8C4D88-F5D3-423B-834D-8DD57D788815}|Quiz.API\\Quiz.API.csproj|d:\\unifacisa\\dotnet\\quiz.api\\quiz.api\\data\\services\\askservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A8C4D88-F5D3-423B-834D-8DD57D788815}|Quiz.API\\Quiz.API.csproj|solutionrelative:quiz.api\\data\\services\\askservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A8C4D88-F5D3-423B-834D-8DD57D788815}|Quiz.API\\Quiz.API.csproj|d:\\unifacisa\\dotnet\\quiz.api\\quiz.api\\conf\\automapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A8C4D88-F5D3-423B-834D-8DD57D788815}|Quiz.API\\Quiz.API.csproj|solutionrelative:quiz.api\\conf\\automapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2A8C4D88-F5D3-423B-834D-8DD57D788815}|Quiz.API\\Quiz.API.csproj|d:\\unifacisa\\dotnet\\quiz.api\\quiz.api\\data\\repository\\askrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A8C4D88-F5D3-423B-834D-8DD57D788815}|Quiz.API\\Quiz.API.csproj|solutionrelative:quiz.api\\data\\repository\\askrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A8C4D88-F5D3-423B-834D-8DD57D788815}|Quiz.API\\Quiz.API.csproj|d:\\unifacisa\\dotnet\\quiz.api\\quiz.api\\controllers\\askcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A8C4D88-F5D3-423B-834D-8DD57D788815}|Quiz.API\\Quiz.API.csproj|solutionrelative:quiz.api\\controllers\\askcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A8C4D88-F5D3-423B-834D-8DD57D788815}|Quiz.API\\Quiz.API.csproj|d:\\unifacisa\\dotnet\\quiz.api\\quiz.api\\dto\\answerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 133,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,20 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AutoMapping.cs",
-              "DocumentMoniker": "D:\\unifacisa\\dotnet\\Quiz.API\\Quiz.API\\Conf\\AutoMapping.cs",
-              "RelativeDocumentMoniker": "Quiz.API\\Conf\\AutoMapping.cs",
-              "ToolTip": "D:\\unifacisa\\dotnet\\Quiz.API\\Quiz.API\\Conf\\AutoMapping.cs",
-              "RelativeToolTip": "Quiz.API\\Conf\\AutoMapping.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBAAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T23:50:45.646Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "AnswerDTO.cs",
               "DocumentMoniker": "D:\\unifacisa\\dotnet\\Quiz.API\\Quiz.API\\Dto\\AnswerDTO.cs",
               "RelativeDocumentMoniker": "Quiz.API\\Dto\\AnswerDTO.cs",
@@ -72,20 +55,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AskService.cs",
               "DocumentMoniker": "D:\\unifacisa\\dotnet\\Quiz.API\\Quiz.API\\Data\\Services\\AskService.cs",
               "RelativeDocumentMoniker": "Quiz.API\\Data\\Services\\AskService.cs",
               "ToolTip": "D:\\unifacisa\\dotnet\\Quiz.API\\Quiz.API\\Data\\Services\\AskService.cs",
               "RelativeToolTip": "Quiz.API\\Data\\Services\\AskService.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAwwCAAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-25T23:31:45.283Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\unifacisa\\dotnet\\Quiz.API\\Quiz.API\\Program.cs",
               "RelativeDocumentMoniker": "Quiz.API\\Program.cs",
@@ -111,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "DataContext.cs",
               "DocumentMoniker": "D:\\unifacisa\\dotnet\\Quiz.API\\Quiz.API\\Data\\DataContext.cs",
               "RelativeDocumentMoniker": "Quiz.API\\Data\\DataContext.cs",
@@ -124,13 +107,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "AskController.cs",
               "DocumentMoniker": "D:\\unifacisa\\dotnet\\Quiz.API\\Quiz.API\\Controllers\\AskController.cs",
               "RelativeDocumentMoniker": "Quiz.API\\Controllers\\AskController.cs",
               "ToolTip": "D:\\unifacisa\\dotnet\\Quiz.API\\Quiz.API\\Controllers\\AskController.cs",
               "RelativeToolTip": "Quiz.API\\Controllers\\AskController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwBgAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBkAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-25T23:28:56.259Z",
               "EditorCaption": ""
