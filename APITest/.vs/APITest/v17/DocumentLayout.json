@@ -1,19 +1,23 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\unifacisa\\dotnet\\APITest\\",
+  "WorkspaceRootPath": "D:\\unifacisa\\2025.1\\dotnet\\APITest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CC624DA1-6D09-4A3C-B919-7D060B6A955D}|APITest\\APITest.csproj|d:\\unifacisa\\dotnet\\apitest\\apitest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC624DA1-6D09-4A3C-B919-7D060B6A955D}|APITest\\APITest.csproj|solutionrelative:apitest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B5637B9-EAB1-4453-B3BF-1E03F08FD750}|APITest\\APITest.csproj|d:\\unifacisa\\2025.1\\dotnet\\apitest\\apitest\\dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B5637B9-EAB1-4453-B3BF-1E03F08FD750}|APITest\\APITest.csproj|solutionrelative:apitest\\dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5637B9-EAB1-4453-B3BF-1E03F08FD750}|APITest\\APITest.csproj|d:\\unifacisa\\2025.1\\dotnet\\apitest\\apitest\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B5637B9-EAB1-4453-B3BF-1E03F08FD750}|APITest\\APITest.csproj|solutionrelative:apitest\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 1,
+      "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 133,
+          "DockedWidth": 200,
           "SelectedChildIndex": 1,
           "Children": [
             {
@@ -23,15 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\unifacisa\\dotnet\\APITest\\APITest\\Program.cs",
-              "RelativeDocumentMoniker": "APITest\\Program.cs",
-              "ToolTip": "D:\\unifacisa\\dotnet\\APITest\\APITest\\Program.cs",
-              "RelativeToolTip": "APITest\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Title": "UsuarioDTO.cs",
+              "DocumentMoniker": "D:\\unifacisa\\2025.1\\dotnet\\APITest\\APITest\\Dto\\UsuarioDTO.cs",
+              "RelativeDocumentMoniker": "APITest\\Dto\\UsuarioDTO.cs",
+              "ToolTip": "D:\\unifacisa\\2025.1\\dotnet\\APITest\\APITest\\Dto\\UsuarioDTO.cs",
+              "RelativeToolTip": "APITest\\Dto\\UsuarioDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T00:35:07.522Z",
+              "WhenOpened": "2025-03-07T00:42:23.123Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "D:\\unifacisa\\2025.1\\dotnet\\APITest\\APITest\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "APITest\\Controllers\\UsuarioController.cs",
+              "ToolTip": "D:\\unifacisa\\2025.1\\dotnet\\APITest\\APITest\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "APITest\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T00:41:02.799Z"
             }
           ]
         }

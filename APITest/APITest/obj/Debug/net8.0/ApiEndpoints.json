@@ -1,15 +1,15 @@
 [
   {
-    "ContainingType": "APITest.Controllers.UserController",
+    "ContainingType": "APITest.Controllers.UsuarioController",
     "Method": "Get",
-    "RelativePath": "api/User",
+    "RelativePath": "api/Usuario",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.String",
+        "Type": "System.Collections.Generic.List\u00601[[APITest.Dto.UsuarioDTO, APITest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -20,80 +20,22 @@
     ]
   },
   {
-    "ContainingType": "APITest.Controllers.UserController",
+    "ContainingType": "APITest.Controllers.UsuarioController",
     "Method": "Post",
-    "RelativePath": "api/User",
+    "RelativePath": "api/Usuario",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "user",
-        "Type": "APITest.User",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "APITest.Controllers.UserController",
-    "Method": "Put",
-    "RelativePath": "api/User/{id}",
-    "HttpMethod": "PUT",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "user",
-        "Type": "APITest.User",
-        "IsRequired": true
-      },
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "APITest.Controllers.UserController",
-    "Method": "Delete",
-    "RelativePath": "api/User/{id}",
-    "HttpMethod": "DELETE",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "APITest.Controllers.UserController",
-    "Method": "Calcular",
-    "RelativePath": "api/User/{valor}/{valor2}",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "valor",
-        "Type": "System.Int32",
-        "IsRequired": true
-      },
-      {
-        "Name": "valor2",
-        "Type": "System.Int32",
+        "Name": "usuarioDTO",
+        "Type": "APITest.Dto.UsuarioDTO",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Int32",
+        "Type": "APITest.Dto.UsuarioDTO",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -104,26 +46,22 @@
     ]
   },
   {
-    "ContainingType": "APITest.Controllers.UserController",
+    "ContainingType": "APITest.Controllers.UsuarioController",
     "Method": "GetUser",
-    "RelativePath": "api/User/get-user",
+    "RelativePath": "api/Usuario/byId/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "APITest.Controllers.UserController",
-    "Method": "ObterUsuario",
-    "RelativePath": "api/User/obter-usuario",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": [
       {
-        "Type": "APITest.User",
+        "Type": "APITest.Dto.UsuarioDTO",
         "MediaTypes": [
           "text/plain",
           "application/json",

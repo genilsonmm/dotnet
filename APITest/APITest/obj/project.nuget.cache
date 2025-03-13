@@ -1,12 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "bGZUVp//tc8=",
+  "dgSpecHash": "JGYq6AVGHM4=",
   "success": true,
-  "projectFilePath": "D:\\unifacisa\\dotnet\\APITest\\APITest\\APITest.csproj",
+  "projectFilePath": "D:\\unifacisa\\2025.1\\dotnet\\APITest\\APITest\\APITest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Virtus\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Virtus\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\Virtus\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512",
     "C:\\Users\\Virtus\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\Virtus\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\Virtus\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
