@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Virtus\\source\\repos\\app-books\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E229AAD-F874-4631-89CA-CB6418D47A44}|app-books\\app-books.csproj|c:\\users\\virtus\\source\\repos\\app-books\\app-books\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E229AAD-F874-4631-89CA-CB6418D47A44}|app-books\\app-books.csproj|solutionrelative:app-books\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E229AAD-F874-4631-89CA-CB6418D47A44}|app-books\\app-books.csproj|c:\\users\\virtus\\source\\repos\\app-books\\app-books\\dto\\bookresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E229AAD-F874-4631-89CA-CB6418D47A44}|app-books\\app-books.csproj|solutionrelative:app-books\\dto\\bookresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E229AAD-F874-4631-89CA-CB6418D47A44}|app-books\\app-books.csproj|c:\\users\\virtus\\source\\repos\\app-books\\app-books\\entity\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E229AAD-F874-4631-89CA-CB6418D47A44}|app-books\\app-books.csproj|solutionrelative:app-books\\entity\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E229AAD-F874-4631-89CA-CB6418D47A44}|app-books\\app-books.csproj|c:\\users\\virtus\\source\\repos\\app-books\\app-books\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E229AAD-F874-4631-89CA-CB6418D47A44}|app-books\\app-books.csproj|solutionrelative:app-books\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E229AAD-F874-4631-89CA-CB6418D47A44}|app-books\\app-books.csproj|c:\\users\\virtus\\source\\repos\\app-books\\app-books\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E229AAD-F874-4631-89CA-CB6418D47A44}|app-books\\app-books.csproj|solutionrelative:app-books\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Virtus\\source\\repos\\app-books\\app-books\\Dto\\BookResponse.cs",
+              "RelativeDocumentMoniker": "app-books\\Dto\\BookResponse.cs",
+              "ToolTip": "C:\\Users\\Virtus\\source\\repos\\app-books\\app-books\\Dto\\BookResponse.cs",
+              "RelativeToolTip": "app-books\\Dto\\BookResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T00:14:21.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "C:\\Users\\Virtus\\source\\repos\\app-books\\app-books\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "app-books\\Controllers\\AuthorController.cs",
+              "ToolTip": "C:\\Users\\Virtus\\source\\repos\\app-books\\app-books\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "app-books\\Controllers\\AuthorController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T00:06:14.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Virtus\\source\\repos\\app-books\\app-books\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "app-books\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Virtus\\source\\repos\\app-books\\app-books\\Controllers\\BookController.cs",
+              "RelativeToolTip": "app-books\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T23:49:47.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\Virtus\\source\\repos\\app-books\\app-books\\Data\\Database.cs",
+              "RelativeDocumentMoniker": "app-books\\Data\\Database.cs",
+              "ToolTip": "C:\\Users\\Virtus\\source\\repos\\app-books\\app-books\\Data\\Database.cs",
+              "RelativeToolTip": "app-books\\Data\\Database.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T23:42:50.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Virtus\\source\\repos\\app-books\\app-books\\Entity\\Book.cs",
+              "RelativeDocumentMoniker": "app-books\\Entity\\Book.cs",
+              "ToolTip": "C:\\Users\\Virtus\\source\\repos\\app-books\\app-books\\Entity\\Book.cs",
+              "RelativeToolTip": "app-books\\Entity\\Book.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T23:39:22.825Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
