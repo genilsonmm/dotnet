@@ -10,37 +10,39 @@ namespace app_books.Controllers
     [ApiController]
     public class BookController : ControllerBase
     {
+        private readonly DataContext _dataContext;
+
+        public BookController(DataContext dataContext)
+        {
+            _dataContext = dataContext;
+        }
+
+
         [HttpPost]
         public ActionResult Create([FromBody] Book book)
         {
-            book.Id = Guid.NewGuid();
-            Database.Instance().AddBook(book);
+            _dataContext.Books.Add(book);
+            _dataContext.SaveChanges();
             return Created(nameof(Create), book);
         }
 
         [HttpGet]
         public ActionResult GetAll()
-        {
-            List<BookResponse> bookResponse = new List<BookResponse>();
-            var books = Database.Instance().GetBooks();
-
-            books.ForEach(book =>
-            {
-                BookResponse br = new BookResponse();
-                br.Id = book.Id;
-                br.Title = book.Title;
-                br.Author = GetAuhorById(book.AuthorId);
-
-                bookResponse.Add(br);
-            });
-
-            return Ok(bookResponse);
+        {  
+            return Ok(_dataContext.Books.ToList());
         }
 
-        private AuthorResponse GetAuhorById(Guid id)
+        [HttpGet("{id}")]
+        public ActionResult GetAll(int id)
+        {
+            return Ok(_dataContext.Books
+                .Where(l=>l.BookId == id).FirstOrDefault());
+        }
+
+        private AuthorResponse GetAuhorById(int id)
         {
             Author author = Database.Instance().GetAuthors()
-                .Where(a => a.Id.Equals(id)).FirstOrDefault();
+                .Where(a => a.AuthorId == id).FirstOrDefault();
 
             return new AuthorResponse() { Name = author.Name };
         }

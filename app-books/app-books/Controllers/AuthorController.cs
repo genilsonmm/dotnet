@@ -12,7 +12,6 @@ namespace app_books.Controllers
         [HttpPost]
         public ActionResult Create([FromBody] Author author)
         {
-            author.Id = Guid.NewGuid();
             Database.Instance().AddAuthor(author);
             return Created(nameof(Create), author);
         }

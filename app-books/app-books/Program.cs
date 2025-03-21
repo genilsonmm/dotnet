@@ -1,8 +1,18 @@
+using app_books.Data;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
 builder.Services.AddControllers();
+
+var connection = builder.Configuration.GetValue<string>("MySqlConnection:MySqlConnectionString");
+builder.Services.AddDbContextPool<DataContext>(
+    options => options.UseMySql(connection, new MySqlServerVersion(new Version(8,0,21)))
+    .EnableDetailedErrors()
+    .EnableDetailedErrors()
+);
 
 var app = builder.Build();
 
