@@ -1,4 +1,6 @@
 using app_books.Data;
+using app_books.Repository;
+using app_books.Service;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -13,6 +15,11 @@ builder.Services.AddDbContextPool<DataContext>(
     .EnableDetailedErrors()
     .EnableDetailedErrors()
 );
+
+builder.Services.AddScoped<AuthorService>();
+builder.Services.AddScoped<AuthorRepository>();
+
+builder.Services.AddAutoMapper(typeof(Program));
 
 var app = builder.Build();
 

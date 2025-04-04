@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace app_books.Migrations
 {
     /// <inheritdoc />
-    public partial class inicial : Migration
+    public partial class initial : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -15,7 +15,7 @@ namespace app_books.Migrations
                 .Annotation("MySql:CharSet", "utf8mb4");
 
             migrationBuilder.CreateTable(
-                name: "authors",
+                name: "Authors",
                 columns: table => new
                 {
                     AuthorId = table.Column<int>(type: "int", nullable: false)
@@ -25,12 +25,12 @@ namespace app_books.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_authors", x => x.AuthorId);
+                    table.PrimaryKey("PK_Authors", x => x.AuthorId);
                 })
                 .Annotation("MySql:CharSet", "utf8mb4");
 
             migrationBuilder.CreateTable(
-                name: "books",
+                name: "Books",
                 columns: table => new
                 {
                     BookId = table.Column<int>(type: "int", nullable: false)
@@ -41,7 +41,7 @@ namespace app_books.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_books", x => x.BookId);
+                    table.PrimaryKey("PK_Books", x => x.BookId);
                 })
                 .Annotation("MySql:CharSet", "utf8mb4");
         }
@@ -50,10 +50,10 @@ namespace app_books.Migrations
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
-                name: "authors");
+                name: "Authors");
 
             migrationBuilder.DropTable(
-                name: "books");
+                name: "Books");
         }
     }
 }

@@ -6,6 +6,7 @@ D:\unifacisa\2025.1\dotnet\app-books\app-books\bin\Debug\net8.0\app-books.deps.j
 D:\unifacisa\2025.1\dotnet\app-books\app-books\bin\Debug\net8.0\app-books.runtimeconfig.json
 D:\unifacisa\2025.1\dotnet\app-books\app-books\bin\Debug\net8.0\app-books.dll
 D:\unifacisa\2025.1\dotnet\app-books\app-books\bin\Debug\net8.0\app-books.pdb
+D:\unifacisa\2025.1\dotnet\app-books\app-books\bin\Debug\net8.0\AutoMapper.dll
 D:\unifacisa\2025.1\dotnet\app-books\app-books\bin\Debug\net8.0\Humanizer.dll
 D:\unifacisa\2025.1\dotnet\app-books\app-books\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 D:\unifacisa\2025.1\dotnet\app-books\app-books\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
@@ -16,8 +17,16 @@ D:\unifacisa\2025.1\dotnet\app-books\app-books\bin\Debug\net8.0\Microsoft.Entity
 D:\unifacisa\2025.1\dotnet\app-books\app-books\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 D:\unifacisa\2025.1\dotnet\app-books\app-books\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
 D:\unifacisa\2025.1\dotnet\app-books\app-books\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\unifacisa\2025.1\dotnet\app-books\app-books\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\unifacisa\2025.1\dotnet\app-books\app-books\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\unifacisa\2025.1\dotnet\app-books\app-books\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 D:\unifacisa\2025.1\dotnet\app-books\app-books\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\unifacisa\2025.1\dotnet\app-books\app-books\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\unifacisa\2025.1\dotnet\app-books\app-books\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\unifacisa\2025.1\dotnet\app-books\app-books\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 D:\unifacisa\2025.1\dotnet\app-books\app-books\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\unifacisa\2025.1\dotnet\app-books\app-books\bin\Debug\net8.0\MySqlConnector.dll
+D:\unifacisa\2025.1\dotnet\app-books\app-books\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
 D:\unifacisa\2025.1\dotnet\app-books\app-books\bin\Debug\net8.0\System.CodeDom.dll
 D:\unifacisa\2025.1\dotnet\app-books\app-books\bin\Debug\net8.0\System.Composition.AttributedModel.dll
 D:\unifacisa\2025.1\dotnet\app-books\app-books\bin\Debug\net8.0\System.Composition.Convention.dll
@@ -100,11 +109,3 @@ D:\unifacisa\2025.1\dotnet\app-books\app-books\obj\Debug\net8.0\refint\app-books
 D:\unifacisa\2025.1\dotnet\app-books\app-books\obj\Debug\net8.0\app-books.pdb
 D:\unifacisa\2025.1\dotnet\app-books\app-books\obj\Debug\net8.0\app-books.genruntimeconfig.cache
 D:\unifacisa\2025.1\dotnet\app-books\app-books\obj\Debug\net8.0\ref\app-books.dll
-D:\unifacisa\2025.1\dotnet\app-books\app-books\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
-D:\unifacisa\2025.1\dotnet\app-books\app-books\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
-D:\unifacisa\2025.1\dotnet\app-books\app-books\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\unifacisa\2025.1\dotnet\app-books\app-books\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
-D:\unifacisa\2025.1\dotnet\app-books\app-books\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
-D:\unifacisa\2025.1\dotnet\app-books\app-books\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-D:\unifacisa\2025.1\dotnet\app-books\app-books\bin\Debug\net8.0\MySqlConnector.dll
-D:\unifacisa\2025.1\dotnet\app-books\app-books\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll

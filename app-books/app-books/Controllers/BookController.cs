@@ -1,8 +1,8 @@
 ﻿using app_books.Data;
 using app_books.Dto;
 using app_books.Entity;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace app_books.Controllers
 {
@@ -29,7 +29,7 @@ namespace app_books.Controllers
         [HttpGet]
         public ActionResult GetAll()
         {  
-            return Ok(_dataContext.Books.ToList());
+            return Ok(_dataContext.Books.Include(a =>a.Author).ToList());
         }
 
         [HttpGet("{id}")]
@@ -37,15 +37,6 @@ namespace app_books.Controllers
         {
             return Ok(_dataContext.Books
                 .Where(l=>l.BookId == id).FirstOrDefault());
-        }
-
-        private AuthorResponse GetAuhorById(int id)
-        {
-            Author author = Database.Instance().GetAuthors()
-                .Where(a => a.AuthorId == id).FirstOrDefault();
-
-            return new AuthorResponse() { Name = author.Name };
-        }
-  
+        }  
     }
 }

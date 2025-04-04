@@ -11,8 +11,8 @@ using app_books.Data;
 namespace app_books.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20250321003340_inicial")]
-    partial class inicial
+    [Migration("20250327234340_anotacoes")]
+    partial class anotacoes
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -34,11 +34,11 @@ namespace app_books.Migrations
 
                     b.Property<string>("Name")
                         .IsRequired()
-                        .HasColumnType("longtext");
+                        .HasColumnType("varchar(100)");
 
                     b.HasKey("AuthorId");
 
-                    b.ToTable("authors");
+                    b.ToTable("Authors");
                 });
 
             modelBuilder.Entity("app_books.Entity.Book", b =>
@@ -54,11 +54,11 @@ namespace app_books.Migrations
 
                     b.Property<string>("Title")
                         .IsRequired()
-                        .HasColumnType("longtext");
+                        .HasColumnType("varchar(120)");
 
                     b.HasKey("BookId");
 
-                    b.ToTable("books");
+                    b.ToTable("Books");
                 });
 #pragma warning restore 612, 618
         }
