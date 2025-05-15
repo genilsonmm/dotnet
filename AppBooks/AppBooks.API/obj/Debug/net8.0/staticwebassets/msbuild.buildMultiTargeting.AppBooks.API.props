@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AppBooks.API.props" />
+</Project>

@@ -1,0 +1,15 @@
+D:\unifacisa\2025.1\dotnet\AppBooks\AppBooks.DATA\bin\Debug\net8.0\AppBooks.DATA.deps.json
+D:\unifacisa\2025.1\dotnet\AppBooks\AppBooks.DATA\bin\Debug\net8.0\AppBooks.DATA.dll
+D:\unifacisa\2025.1\dotnet\AppBooks\AppBooks.DATA\bin\Debug\net8.0\AppBooks.DATA.pdb
+D:\unifacisa\2025.1\dotnet\AppBooks\AppBooks.DATA\obj\Debug\net8.0\AppBooks.DATA.GeneratedMSBuildEditorConfig.editorconfig
+D:\unifacisa\2025.1\dotnet\AppBooks\AppBooks.DATA\obj\Debug\net8.0\AppBooks.DATA.AssemblyInfoInputs.cache
+D:\unifacisa\2025.1\dotnet\AppBooks\AppBooks.DATA\obj\Debug\net8.0\AppBooks.DATA.AssemblyInfo.cs
+D:\unifacisa\2025.1\dotnet\AppBooks\AppBooks.DATA\obj\Debug\net8.0\AppBooks.DATA.csproj.CoreCompileInputs.cache
+D:\unifacisa\2025.1\dotnet\AppBooks\AppBooks.DATA\obj\Debug\net8.0\AppBooks.DATA.sourcelink.json
+D:\unifacisa\2025.1\dotnet\AppBooks\AppBooks.DATA\obj\Debug\net8.0\AppBooks.DATA.dll
+D:\unifacisa\2025.1\dotnet\AppBooks\AppBooks.DATA\obj\Debug\net8.0\refint\AppBooks.DATA.dll
+D:\unifacisa\2025.1\dotnet\AppBooks\AppBooks.DATA\obj\Debug\net8.0\AppBooks.DATA.pdb
+D:\unifacisa\2025.1\dotnet\AppBooks\AppBooks.DATA\obj\Debug\net8.0\ref\AppBooks.DATA.dll
+D:\unifacisa\2025.1\dotnet\AppBooks\AppBooks.DATA\bin\Debug\net8.0\AppBooks.DATA.runtimeconfig.json
+D:\unifacisa\2025.1\dotnet\AppBooks\AppBooks.DATA\obj\Debug\net8.0\AppBooks.DATA.csproj.AssemblyReference.cache
+D:\unifacisa\2025.1\dotnet\AppBooks\AppBooks.DATA\obj\Debug\net8.0\AppBooks.DATA.genruntimeconfig.cache

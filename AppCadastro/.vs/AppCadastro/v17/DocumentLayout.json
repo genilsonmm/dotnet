@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\unifacisa\\2025.1\\dotnet\\AppCadastro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7EA59D-FCB4-41B7-AAE6-EFB2F7FA0A0C}|AppCadastro\\AppCadastro.csproj|d:\\unifacisa\\2025.1\\dotnet\\appcadastro\\appcadastro\\detalhes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AE7EA59D-FCB4-41B7-AAE6-EFB2F7FA0A0C}|AppCadastro\\AppCadastro.csproj|solutionrelative:appcadastro\\detalhes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7EA59D-FCB4-41B7-AAE6-EFB2F7FA0A0C}|AppCadastro\\AppCadastro.csproj|d:\\unifacisa\\2025.1\\dotnet\\appcadastro\\appcadastro\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AE7EA59D-FCB4-41B7-AAE6-EFB2F7FA0A0C}|AppCadastro\\AppCadastro.csproj|solutionrelative:appcadastro\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7EA59D-FCB4-41B7-AAE6-EFB2F7FA0A0C}|AppCadastro\\AppCadastro.csproj|d:\\unifacisa\\2025.1\\dotnet\\appcadastro\\appcadastro\\detalhes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7EA59D-FCB4-41B7-AAE6-EFB2F7FA0A0C}|AppCadastro\\AppCadastro.csproj|solutionrelative:appcadastro\\detalhes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7EA59D-FCB4-41B7-AAE6-EFB2F7FA0A0C}|AppCadastro\\AppCadastro.csproj|d:\\unifacisa\\2025.1\\dotnet\\appcadastro\\appcadastro\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7EA59D-FCB4-41B7-AAE6-EFB2F7FA0A0C}|AppCadastro\\AppCadastro.csproj|solutionrelative:appcadastro\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7EA59D-FCB4-41B7-AAE6-EFB2F7FA0A0C}|AppCadastro\\AppCadastro.csproj|d:\\unifacisa\\2025.1\\dotnet\\appcadastro\\appcadastro\\model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7EA59D-FCB4-41B7-AAE6-EFB2F7FA0A0C}|AppCadastro\\AppCadastro.csproj|solutionrelative:appcadastro\\model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 133,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Detalhes.xaml.cs",
+              "DocumentMoniker": "D:\\unifacisa\\2025.1\\dotnet\\AppCadastro\\AppCadastro\\Detalhes.xaml.cs",
+              "RelativeDocumentMoniker": "AppCadastro\\Detalhes.xaml.cs",
+              "ToolTip": "D:\\unifacisa\\2025.1\\dotnet\\AppCadastro\\AppCadastro\\Detalhes.xaml.cs",
+              "RelativeToolTip": "AppCadastro\\Detalhes.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T00:20:38.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Detalhes.xaml",
+              "DocumentMoniker": "D:\\unifacisa\\2025.1\\dotnet\\AppCadastro\\AppCadastro\\Detalhes.xaml",
+              "RelativeDocumentMoniker": "AppCadastro\\Detalhes.xaml",
+              "ToolTip": "D:\\unifacisa\\2025.1\\dotnet\\AppCadastro\\AppCadastro\\Detalhes.xaml",
+              "RelativeToolTip": "AppCadastro\\Detalhes.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-25T00:17:47.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\unifacisa\\2025.1\\dotnet\\AppCadastro\\AppCadastro\\Model\\Usuario.cs",
+              "RelativeDocumentMoniker": "AppCadastro\\Model\\Usuario.cs",
+              "ToolTip": "D:\\unifacisa\\2025.1\\dotnet\\AppCadastro\\AppCadastro\\Model\\Usuario.cs",
+              "RelativeToolTip": "AppCadastro\\Model\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T23:58:49.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\unifacisa\\2025.1\\dotnet\\AppCadastro\\AppCadastro\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "AppCadastro\\MainPage.xaml.cs",
+              "ToolTip": "D:\\unifacisa\\2025.1\\dotnet\\AppCadastro\\AppCadastro\\MainPage.xaml.cs",
+              "RelativeToolTip": "AppCadastro\\MainPage.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T23:44:55.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\unifacisa\\2025.1\\dotnet\\AppCadastro\\AppCadastro\\MainPage.xaml",
+              "RelativeDocumentMoniker": "AppCadastro\\MainPage.xaml",
+              "ToolTip": "D:\\unifacisa\\2025.1\\dotnet\\AppCadastro\\AppCadastro\\MainPage.xaml",
+              "RelativeToolTip": "AppCadastro\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-24T23:44:35.778Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "D:\\unifacisa\\2025.1\\dotnet\\app-books\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E229AAD-F874-4631-89CA-CB6418D47A44}|app-books\\app-books.csproj|d:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\entity\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E229AAD-F874-4631-89CA-CB6418D47A44}|app-books\\app-books.csproj|solutionrelative:app-books\\entity\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E229AAD-F874-4631-89CA-CB6418D47A44}|app-books\\app-books.csproj|d:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E229AAD-F874-4631-89CA-CB6418D47A44}|app-books\\app-books.csproj|solutionrelative:app-books\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E229AAD-F874-4631-89CA-CB6418D47A44}|app-books\\app-books.csproj|d:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\entity\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E229AAD-F874-4631-89CA-CB6418D47A44}|app-books\\app-books.csproj|solutionrelative:app-books\\entity\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E229AAD-F874-4631-89CA-CB6418D47A44}|app-books\\app-books.csproj|d:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E229AAD-F874-4631-89CA-CB6418D47A44}|app-books\\app-books.csproj|solutionrelative:app-books\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E229AAD-F874-4631-89CA-CB6418D47A44}|app-books\\app-books.csproj|d:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E229AAD-F874-4631-89CA-CB6418D47A44}|app-books\\app-books.csproj|solutionrelative:app-books\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E229AAD-F874-4631-89CA-CB6418D47A44}|app-books\\app-books.csproj|d:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E229AAD-F874-4631-89CA-CB6418D47A44}|app-books\\app-books.csproj|solutionrelative:app-books\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\Migrations\\20250404002633_relacionamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app-books\\Migrations\\20250404002633_relacionamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E229AAD-F874-4631-89CA-CB6418D47A44}|app-books\\app-books.csproj|d:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\app-books.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0E229AAD-F874-4631-89CA-CB6418D47A44}|app-books\\app-books.csproj|solutionrelative:app-books\\app-books.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E229AAD-F874-4631-89CA-CB6418D47A44}|app-books\\app-books.csproj|d:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\config\\automapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E229AAD-F874-4631-89CA-CB6418D47A44}|app-books\\app-books.csproj|solutionrelative:app-books\\config\\automapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E229AAD-F874-4631-89CA-CB6418D47A44}|app-books\\app-books.csproj|d:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,20 +35,12 @@
       "RelativeMoniker": "D:0:0:{0E229AAD-F874-4631-89CA-CB6418D47A44}|app-books\\app-books.csproj|solutionrelative:app-books\\repository\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E229AAD-F874-4631-89CA-CB6418D47A44}|app-books\\app-books.csproj|d:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\dto\\authorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E229AAD-F874-4631-89CA-CB6418D47A44}|app-books\\app-books.csproj|solutionrelative:app-books\\dto\\authorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E229AAD-F874-4631-89CA-CB6418D47A44}|app-books\\app-books.csproj|d:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\entity\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E229AAD-F874-4631-89CA-CB6418D47A44}|app-books\\app-books.csproj|solutionrelative:app-books\\entity\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E229AAD-F874-4631-89CA-CB6418D47A44}|app-books\\app-books.csproj|d:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E229AAD-F874-4631-89CA-CB6418D47A44}|app-books\\app-books.csproj|solutionrelative:app-books\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E229AAD-F874-4631-89CA-CB6418D47A44}|app-books\\app-books.csproj|d:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E229AAD-F874-4631-89CA-CB6418D47A44}|app-books\\app-books.csproj|solutionrelative:app-books\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E229AAD-F874-4631-89CA-CB6418D47A44}|app-books\\app-books.csproj|d:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\config\\automapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E229AAD-F874-4631-89CA-CB6418D47A44}|app-books\\app-books.csproj|solutionrelative:app-books\\config\\automapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E229AAD-F874-4631-89CA-CB6418D47A44}|app-books\\app-books.csproj|d:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\entity\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E229AAD-F874-4631-89CA-CB6418D47A44}|app-books\\app-books.csproj|solutionrelative:app-books\\entity\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 133,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,144 +58,133 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20250404002633_relacionamento.cs",
-              "DocumentMoniker": "D:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\Migrations\\20250404002633_relacionamento.cs",
-              "RelativeDocumentMoniker": "app-books\\Migrations\\20250404002633_relacionamento.cs",
-              "ToolTip": "D:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\Migrations\\20250404002633_relacionamento.cs",
-              "RelativeToolTip": "app-books\\Migrations\\20250404002633_relacionamento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T00:26:34.12Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AuthorRepository.cs",
-              "DocumentMoniker": "D:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\Repository\\AuthorRepository.cs",
-              "RelativeDocumentMoniker": "app-books\\Repository\\AuthorRepository.cs",
-              "ToolTip": "D:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\Repository\\AuthorRepository.cs",
-              "RelativeToolTip": "app-books\\Repository\\AuthorRepository.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAvwCMAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T23:50:13.464Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AuthorService.cs",
-              "DocumentMoniker": "D:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\Service\\AuthorService.cs",
-              "RelativeDocumentMoniker": "app-books\\Service\\AuthorService.cs",
-              "ToolTip": "D:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\Service\\AuthorService.cs",
-              "RelativeToolTip": "app-books\\Service\\AuthorService.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAwDYAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T23:32:44.174Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Book.cs",
-              "DocumentMoniker": "D:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\Entity\\Book.cs",
-              "RelativeDocumentMoniker": "app-books\\Entity\\Book.cs",
-              "ToolTip": "D:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\Entity\\Book.cs",
-              "RelativeToolTip": "app-books\\Entity\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T23:32:10.97Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Author.cs",
-              "DocumentMoniker": "D:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\Entity\\Author.cs",
-              "RelativeDocumentMoniker": "app-books\\Entity\\Author.cs",
-              "ToolTip": "D:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\Entity\\Author.cs",
-              "RelativeToolTip": "app-books\\Entity\\Author.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T23:32:09.843Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "DataContext.cs",
               "DocumentMoniker": "D:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\Data\\DataContext.cs",
               "RelativeDocumentMoniker": "app-books\\Data\\DataContext.cs",
               "ToolTip": "D:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\Data\\DataContext.cs",
               "RelativeToolTip": "app-books\\Data\\DataContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T23:31:17.345Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BookController.cs",
-              "DocumentMoniker": "D:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\Controllers\\BookController.cs",
-              "RelativeDocumentMoniker": "app-books\\Controllers\\BookController.cs",
-              "ToolTip": "D:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\Controllers\\BookController.cs",
-              "RelativeToolTip": "app-books\\Controllers\\BookController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAkwCMAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T23:30:26.971Z",
+              "WhenOpened": "2025-04-11T00:00:42.019Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AuthorRequest.cs",
-              "DocumentMoniker": "D:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\Dto\\AuthorRequest.cs",
-              "RelativeDocumentMoniker": "app-books\\Dto\\AuthorRequest.cs",
-              "ToolTip": "D:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\Dto\\AuthorRequest.cs",
-              "RelativeToolTip": "app-books\\Dto\\AuthorRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T00:06:57.814Z",
+              "DocumentIndex": 3,
+              "Title": "app-books",
+              "DocumentMoniker": "D:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\app-books.csproj",
+              "RelativeDocumentMoniker": "app-books\\app-books.csproj",
+              "ToolTip": "D:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\app-books.csproj",
+              "RelativeToolTip": "app-books\\app-books.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-10T23:59:49.869Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "AuthorController.cs",
-              "DocumentMoniker": "D:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\Controllers\\AuthorController.cs",
-              "RelativeDocumentMoniker": "app-books\\Controllers\\AuthorController.cs",
-              "ToolTip": "D:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\Controllers\\AuthorController.cs",
-              "RelativeToolTip": "app-books\\Controllers\\AuthorController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T23:30:03.264Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\Program.cs",
-              "RelativeDocumentMoniker": "app-books\\Program.cs",
-              "ToolTip": "D:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\Program.cs",
-              "RelativeToolTip": "app-books\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T23:41:23.206Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "AutoMapping.cs",
               "DocumentMoniker": "D:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\Config\\AutoMapping.cs",
               "RelativeDocumentMoniker": "app-books\\Config\\AutoMapping.cs",
               "ToolTip": "D:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\Config\\AutoMapping.cs",
               "RelativeToolTip": "app-books\\Config\\AutoMapping.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T23:29:15.738Z"
+              "WhenOpened": "2025-04-10T23:43:18.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "D:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "app-books\\Controllers\\AuthorController.cs",
+              "ToolTip": "D:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "app-books\\Controllers\\AuthorController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T23:41:55.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthorService.cs",
+              "DocumentMoniker": "D:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\Service\\AuthorService.cs",
+              "RelativeDocumentMoniker": "app-books\\Service\\AuthorService.cs",
+              "ToolTip": "D:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\Service\\AuthorService.cs",
+              "RelativeToolTip": "app-books\\Service\\AuthorService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T23:38:52.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\Program.cs",
+              "RelativeDocumentMoniker": "app-books\\Program.cs",
+              "ToolTip": "D:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\Program.cs",
+              "RelativeToolTip": "app-books\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T23:36:41.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\appsettings.json",
+              "RelativeDocumentMoniker": "app-books\\appsettings.json",
+              "ToolTip": "D:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\appsettings.json",
+              "RelativeToolTip": "app-books\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-10T23:36:30.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthorRepository.cs",
+              "DocumentMoniker": "D:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\Repository\\AuthorRepository.cs",
+              "RelativeDocumentMoniker": "app-books\\Repository\\AuthorRepository.cs",
+              "ToolTip": "D:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\Repository\\AuthorRepository.cs",
+              "RelativeToolTip": "app-books\\Repository\\AuthorRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T23:35:25.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\Entity\\Book.cs",
+              "RelativeDocumentMoniker": "app-books\\Entity\\Book.cs",
+              "ToolTip": "D:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\Entity\\Book.cs",
+              "RelativeToolTip": "app-books\\Entity\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T23:31:41.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\Entity\\Author.cs",
+              "RelativeDocumentMoniker": "app-books\\Entity\\Author.cs",
+              "ToolTip": "D:\\unifacisa\\2025.1\\dotnet\\app-books\\app-books\\Entity\\Author.cs",
+              "RelativeToolTip": "app-books\\Entity\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T23:31:40.669Z",
+              "EditorCaption": ""
             }
           ]
         }
