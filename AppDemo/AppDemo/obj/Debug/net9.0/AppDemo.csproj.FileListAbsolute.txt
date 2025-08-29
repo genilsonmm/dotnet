@@ -1,0 +1,15 @@
+D:\unifacisa\2025.2\dotnet\AppDemo\AppDemo\bin\Debug\net9.0\AppDemo.exe
+D:\unifacisa\2025.2\dotnet\AppDemo\AppDemo\bin\Debug\net9.0\AppDemo.deps.json
+D:\unifacisa\2025.2\dotnet\AppDemo\AppDemo\bin\Debug\net9.0\AppDemo.runtimeconfig.json
+D:\unifacisa\2025.2\dotnet\AppDemo\AppDemo\bin\Debug\net9.0\AppDemo.dll
+D:\unifacisa\2025.2\dotnet\AppDemo\AppDemo\bin\Debug\net9.0\AppDemo.pdb
+D:\unifacisa\2025.2\dotnet\AppDemo\AppDemo\obj\Debug\net9.0\AppDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\unifacisa\2025.2\dotnet\AppDemo\AppDemo\obj\Debug\net9.0\AppDemo.AssemblyInfoInputs.cache
+D:\unifacisa\2025.2\dotnet\AppDemo\AppDemo\obj\Debug\net9.0\AppDemo.AssemblyInfo.cs
+D:\unifacisa\2025.2\dotnet\AppDemo\AppDemo\obj\Debug\net9.0\AppDemo.csproj.CoreCompileInputs.cache
+D:\unifacisa\2025.2\dotnet\AppDemo\AppDemo\obj\Debug\net9.0\AppDemo.sourcelink.json
+D:\unifacisa\2025.2\dotnet\AppDemo\AppDemo\obj\Debug\net9.0\AppDemo.dll
+D:\unifacisa\2025.2\dotnet\AppDemo\AppDemo\obj\Debug\net9.0\refint\AppDemo.dll
+D:\unifacisa\2025.2\dotnet\AppDemo\AppDemo\obj\Debug\net9.0\AppDemo.pdb
+D:\unifacisa\2025.2\dotnet\AppDemo\AppDemo\obj\Debug\net9.0\AppDemo.genruntimeconfig.cache
+D:\unifacisa\2025.2\dotnet\AppDemo\AppDemo\obj\Debug\net9.0\ref\AppDemo.dll
